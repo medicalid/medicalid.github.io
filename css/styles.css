@@ -1,0 +1,20 @@
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,700,900|Roboto+Condensed:400,700);
+
+html,body {
+  font-family: 'Roboto', sans-serif;
+  margin:0px;
+  padding:0px;
+  text-align: justify;
+    text-justify: inter-word;
+}
+
+a {
+  text-decoration:none;
+  -webkit-transition:0.3s;
+  color:#888;
+}
+
+a:hover {
+  color:#555;
+}
