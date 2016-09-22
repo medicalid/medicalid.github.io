@@ -114,6 +114,14 @@
 
 	#mc_embed_signup{width:350px; text-align: center; margin: 50px auto;}
 
+	.email:focus {
+		border-color: #d9d9d9;
+	}
+	
+	::-webkit-input-placeholder { color:#bbb !important; }
+	::-moz-placeholder { color:#bbb !important; } /* firefox 19+ */
+	:-ms-input-placeholder { color:#bbb !important; } /* ie */
+	input:-moz-placeholder { color:#bbb !important; }
 	</style>
 </head>
 <body>
@@ -135,11 +143,11 @@
 				<div id="mc_embed_signup_scroll">
 					<label for="mce-EMAIL" style="font-size: 1.2em">Subscribe to our Newsletter</label>
 					<div class="input-group">
-						<input class="form-control" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+						<input class="form-control email" type="email" value="" name="EMAIL" class="" id="mce-EMAIL" placeholder="email address" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a6dbeafb2427520c32f7759b8_57ea3415bd" tabindex="-1" value=""></div>
 						<span class="input-group-btn">
-							<input class="btn btn-default" type="submit" value="OK" name="subscribe" id="mc-embedded-subscribe">
+							<input class="btn btn-default" style="color:#565656 !important" type="submit" value="OK" name="subscribe" id="mc-embedded-subscribe">
 						</span>
 					</div>
 				</div>
