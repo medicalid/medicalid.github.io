@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="author" content="{{ site.author }}">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="icon" href="/assets/favicon.ico">
+
+  <title>Medical ID - The Android app that could save your life</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body>
+
+  <div id="nav">
+    <div class="container ">
+      <nav class="navbar-light">
+
+        <a class="navbar-brand" href="/" style="font-size: 1.5em;">
+          <img id="icon" src="/assets/images/logo.png" width="40" height="40" class="d-inline-block" alt="Medical ID" style="margin-right: 12px; margin-top: -4px"> Medical ID
+        </a>
+
+        <ul class="nav nav-pills float-md-right">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/reviews">Reviews</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/faq">FAQ</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/share">Share</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/contact">Contact</a>
+          </li>
+        </ul>
+
+      </nav>
+    </div>
+    </div>
+
+    <div id="content" class="container">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+  </html>
