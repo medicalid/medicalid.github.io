@@ -40,7 +40,7 @@ layout: default
     <div class="row justify-content-center text-center">
       <h1>Main Features</h1>
     </div>
-    <div class="row justify-content-center text-center">
+    <div class="row justify-content-center">
       <ul class="list-group">
         <li class="list-group-item list-group-item-action">Quick access to medical information from the lock screen</li>
         <li class="list-group-item list-group-item-action">Support multiple profiles for family medical information</li>
