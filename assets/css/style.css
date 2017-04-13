@@ -75,19 +75,37 @@ h1, h2, h3 {
 
 .review {
   background-color: white;
-  border: 1px dotted #a9a9a9;
-  border-radius: 16px;
-  padding: 16px;
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+  padding: 24px;
   text-align: center;
 }
 
+.review img {
+    width: 96px;
+}
+
 .review-author {
-  font-weight: bold;
+  font-size: 1.2em;
+  font-weight: 600;
+  padding-top: 16px;
 }
 
 .review-row {
   margin: 24px 0;
 }
+
+.btn-highlight {
+    background-color: #fe0038;
+    color: white;
+    font-weight: 800;
+}
+
+.btn-highlight, .btn-highlight:focus, .btn-highlight:active {
+    border:none !important;
+    outline: none !important;
+}
+
 
 #content {
   margin-top: 32px;

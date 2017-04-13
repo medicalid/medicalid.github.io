@@ -6,59 +6,23 @@ layout: default
 <div class="row justify-content-center review-row">
   <div class="col-md-4">
     <div class="review">
-      <p class="review-author">Regina Byers</p>
-      "It's really great to have all your medical information always available for doctor appointments or emergency's."
+      <img src="https://lh5.googleusercontent.com/-RGF1zfgIHPY/AAAAAAAAAAI/AAAAAAAAADM/Jf21KVQQcL4/" class="rounded-circle">
+      <p class="review-author">Mary Ayala</p>
+      "Having all your medical info available to first responders in an emergency, even if your screen is locked, is a great idea. The app will send a text to your emergency contacts, too. Very easy to use."
     </div>
   </div>
   <div class="col-md-4">
     <div class="review">
-      <p class="review-author">Rose Wheler</p>
-      "Very easy to use. In case of emergency, it's displayed even when your phone is locked."
-    </div>
-  </div>
-</div>
-
-<div class="row justify-content-center review-row">
-  <div class="col-md-4">
-    <div class="review">
-      <p class="review-author">Andrew Fuqua</p>
-      "It just works, as advertised I love it when you have a simple app that's well designed, doesn't have a lot of clutter or ads, and just works. That's what this app does. Love it."
+      <img src="https://lh3.googleusercontent.com/-wHOh1UNxNbI/AAAAAAAAAAI/AAAAAAAAZEk/_zrmp7RdyEE/" class="rounded-circle">
+      <p class="review-author">Matti White</p>
+      "Today it saved me! I had an epileptic fit whilst out, and because of this app the people around me were able to contact my next of kin, realise what was happening AND get me the appropriate care! Thank you from the bottom of my heart!"
     </div>
   </div>
   <div class="col-md-4">
     <div class="review">
-      <p class="review-author">Sarah Ferguson</p>
-      "This app had come in very handy.  I have a seizure disorder. This gives me the peace of mind that if I have a medical emergency anyone will be able to access my pertinent information."
-    </div>
-  </div>
-</div>
-
-<div class="row justify-content-center review-row">
-  <div class="col-md-4">
-    <div class="review">
-      <p class="review-author">Charles Hoffman</p>
-      "Reassuring and Effective. A really effective way of ensuring that people know of your health risk when you are least able to tell them. Easy to set up and functions faultlessly. At the end of my trial I will be buying the paid-for version, as the developer really deserves to be rewarded. Thanks"
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="review">
-      <p class="review-author">Christa Lombs</p>
-      "The ONLY ICE app can be read on a locked phone. This is the ONLY ICE app I've found which can be read by EMTs and other First Responders when you are unconscious or confused. The ad says that US measurement is available, but I don't see how on the free version. I'm using Marshmallow 6.0."
-    </div>
-  </div>
-</div>
-
-<div class="row justify-content-center review-row">
-  <div class="col-md-4">
-    <div class="review">
-      <p class="review-author">Sarah Bassham</p>
-      "Love it. Extremely helpful! So glad I found this app!"
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="review">
-      <p class="review-author">Lylla Stanfield </p>
-      "Love it ! Works great for me. Above expectations."
+      <img src="https://lh3.googleusercontent.com/-1KPlLCTdBfo/AAAAAAAAAAI/AAAAAAAAMj8/uWhgn5S9NiE/" class="rounded-circle">
+      <p class="review-author">Nancy Botello</p>
+      "Has saved my life many times! I have epilepsy and a genetic disease which causes me to be at risk for strokes mong other things. The paramedics always have an easy time getting my medical history and info with this app. I love the fact that I can add multiple profiles."
     </div>
   </div>
 </div>
