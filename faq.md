@@ -46,12 +46,11 @@ layout: default
           </tr>
           <tr>
             <th scope="row">Frequent updates</th>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
           </tr>
         </tbody>
       </table>
-
       </p>
     </div>
     <div class="faq-entry">
