@@ -4,14 +4,14 @@ layout: default
 # Don't just take our word for it...
 
 <div class="row justify-content-center review-row">
-  <div class="col-md-4">
+  <div class="col-md-4 mb-3">
     <div class="review">
       <img src="https://lh5.googleusercontent.com/-RGF1zfgIHPY/AAAAAAAAAAI/AAAAAAAAADM/Jf21KVQQcL4/" class="rounded-circle">
       <p class="review-author">Mary Ayala</p>
       "Having all your medical info available to first responders in an emergency, even if your screen is locked, is a great idea. The app will send a text to your emergency contacts, too. Very easy to use."
     </div>
   </div>
-  <div class="col-md-4">
+  <div class="col-md-4 mb-3">
     <div class="review">
       <img src="https://lh3.googleusercontent.com/-wHOh1UNxNbI/AAAAAAAAAAI/AAAAAAAAZEk/_zrmp7RdyEE/" class="rounded-circle">
       <p class="review-author">Matti White</p>

@@ -10,7 +10,7 @@
   <link rel="canonical" href="https://medicalid.info/">
   <link rel="icon" href="/assets/favicon.ico">
 
-  <title>Medical ID - The Android app that could save your life</title>
+  <title>Medical ID - The Android app that could save your life!</title>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
   <link rel="stylesheet" href="/assets/css/style.css">
@@ -20,38 +20,40 @@
 </head>
 
 <body>
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded" >
+      <div class="container">
+          <button class="navbar-toggler navbar-toggler-right" style="margin-top:16px" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
 
-  <div id="nav">
-    <div class="container ">
-      <nav class="navbar-light">
+          <a class="navbar-brand" href="/" style="font-size: 1.5em; min-width: 300px;">
+            <img id="icon" src="/assets/images/logo.png" width="40" height="40" class="d-inline-block" alt="Medical ID" style="margin-right: 12px; margin-top: -4px"> Medical ID
+          </a>
 
-        <a class="navbar-brand" href="/" style="font-size: 1.5em;">
-          <img id="icon" src="/assets/images/logo.png" width="40" height="40" class="d-inline-block" alt="Medical ID" style="margin-right: 12px; margin-top: -4px"> Medical ID
-        </a>
-
-        <ul class="nav nav-pills float-md-right">
-          <li class="nav-item">
-            <a class="nav-link" href="/reviews">Reviews</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/faq">FAQ</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/share">Share</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/contact">Contact</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://play.google.com/store/apps/details?id=app.medicalid.free" target="_blank">
-              <button type="button" class="btn btn-highlight">Try now</button>
-            </a>
-          </li>
-        </ul>
-
-      </nav>
-    </div>
-    </div>
+          <div class="collapse navbar-collapse" id="navbarToggler">
+            <div class="navbar-nav mr-auto mt-2 mt-md-0"></div>
+            <ul class="navbar-nav my-2 my-lg-0">
+              <li class="nav-item">
+                <a class="nav-link" href="/reviews">Reviews</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/faq">FAQ</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/share">Share</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/contact">Contact</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://play.google.com/store/apps/details?id=app.medicalid.free" target="_blank" title="Try Medical ID now!">
+                  <button type="button" class="btn btn-highlight">Try now</button>
+                </a>
+              </li>
+            </ul>
+          </div>
+      </div>
+    </nav>
 
     <div id="content" class="container">
       {{ content }}

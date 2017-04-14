@@ -1,12 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Palanquin');
 
 html, body {
-  font-family: "Calibre", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  font-family: 'Source Sans Pro',sans-serif;
+  font-family: Palanquin, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   margin: 0px;
   padding: 0px;
   text-align: justify;
   text-justify: inter-word;
+  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
+  font-smooth: always;
 }
 
 body {
@@ -49,12 +51,17 @@ h1, h2, h3 {
   font-family: 'Oswald', sans-serif;
 }
 
-.nav-link, .nav-link:visited, .nav-link:active {
-    color: #777;
+.nav-item {
+   padding-left: 16px;
 }
+
+.nav-link, .nav-link:visited, .nav-link:active {
+    color: #777777 !important;
+}
+
 .nav-link:hover {
-    color: #fe0038;
-    opacity: 0.5;
+     color: #fe0038 !important;
+     opacity: 0.5;
 }
 
 .footer, .footer:visited, .footer:active {
@@ -102,21 +109,19 @@ h1, h2, h3 {
 }
 
 .btn-highlight, .btn-highlight:focus, .btn-highlight:active {
-    border:none !important;
+    border: none !important;
     outline: none !important;
 }
-
 
 #content {
   margin-top: 32px;
 }
 
-#nav {
+.navbar {
   background-color: white;
   border-bottom: 1px solid #e1e1e1;
   font-weight: 500;
-  height: 90px;
-  line-height: 80px;
+  line-height: 60px;
 }
 
 #icon {
