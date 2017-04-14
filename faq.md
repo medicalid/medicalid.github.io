@@ -21,23 +21,23 @@ layout: default
         <tbody>
           <tr>
             <th scope="row">Quick access to medical information from the lock screen</th>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
           </tr>
           <tr>
             <th scope="row">Neaby hospitals localisation</th>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
           </tr>
           <tr>
             <th scope="row">Customisable lock screen widgets</th>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
           </tr>
           <tr>
             <th scope="row">Multiple SMS alert contacts</th>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
-            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
           </tr>
           <tr>
             <th scope="row">Number of profiles</th>
