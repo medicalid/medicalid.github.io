@@ -7,9 +7,51 @@ layout: default
 <div class="row justify-content-center">
   <div class="col-lg-9">
     <div class="faq-entry">
-      <h4>Q1: What are the differences between the free and premium version?</h4>
+      <h4>Q1: What are the differences between the free and the premium version?</h4>
       <p class="faq-answer">
-        The main purpose of the app is to help people and ultimately save lifes. Although the free version includes all basics to reach this goal, developing an maintaining such an app has a cost. The premium version help us to continue the development of the app but also gives you access to more features (e.g. creating multiple profiles, customising widgets, etc.).
+      The main purpose of the app is to help people and ultimately save lifes. Although the free version includes all basics to reach this goal, developing an maintaining such an app has a cost. The premium version help us to continue the development of the app but also gives you access to more features (e.g. creating multiple profiles, customising widgets, etc.).
+      <table class="table table-hover" style="background-color: white;">
+        <thead>
+          <tr>
+            <th></th>
+            <th class="text-center">Free</th>
+            <th class="text-center">Premium</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Quick access to medical information from the lock screen</th>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+          </tr>
+          <tr>
+            <th scope="row">Neaby hospitals localisation</th>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+          </tr>
+          <tr>
+            <th scope="row">Customisable lock screen widgets</th>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+          </tr>
+          <tr>
+            <th scope="row">Multiple SMS alert contacts</th>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+          </tr>
+          <tr>
+            <th scope="row">Number of profiles</th>
+            <td>1</td>
+            <td>unlimited</td>
+          </tr>
+          <tr>
+            <th scope="row">Frequent updates</th>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="color: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+          </tr>
+        </tbody>
+      </table>
+
       </p>
     </div>
     <div class="faq-entry">

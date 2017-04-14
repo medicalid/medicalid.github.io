@@ -41,6 +41,7 @@ h1, h2, h3 {
 
 .faq-entry h4 {
   font-weight: bold;
+  margin-bottom: 8px;
 }
 
 .list-group-item-action:hover {
@@ -62,6 +63,14 @@ h1, h2, h3 {
 .nav-link:hover {
      color: #fe0038 !important;
      opacity: 0.5;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #fceff2;
+}
+
+.table td {
+    text-align: center;
 }
 
 .footer, .footer:visited, .footer:active {
