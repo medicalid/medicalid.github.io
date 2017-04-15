@@ -39,7 +39,7 @@ layout: default
             <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
             <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
           </tr>
-          <tr>
+          <tr height="63">
             <th scope="row">Number of profiles</th>
             <td>1</td>
             <td>unlimited</td>
