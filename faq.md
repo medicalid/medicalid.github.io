@@ -63,7 +63,7 @@ layout: default
       </div>
     </div>
     <div class="faq-entry">
-      <h4>Q3: How to define ICE contacts?</h4>
+      <h4 id="defining_ice_contacts">Q3: How to define ICE contacts?</h4>
       <p class="faq-answer">
         The app allows to create profiles. Each profile contains a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such action is done, a pop-up appears to select the right contact. On selection, a link is automatically created. This way, when the profile is displayed on the lock screen, anybody can tap the link to open the profile associated to the contact you have defined and call him without unlocking your device.
       </p>
