@@ -36,12 +36,12 @@ h1, h2, h3 {
 }
 
 .faq-entry {
-  margin-bottom: 32px;
+  margin-bottom: 40px;
 }
 
 .faq-entry h4 {
   font-weight: bold;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 .list-group-item-action:hover {

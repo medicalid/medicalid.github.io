@@ -7,7 +7,7 @@ layout: default
 <div class="row justify-content-center">
   <div class="col-lg-9">
     <div class="faq-entry">
-      <h4>Q1: What are the differences between the free and the premium version?</h4>
+      <h4 id="differences_free_premium">Q1: What are the differences between the free and the premium version?</h4>
       <p class="faq-answer">
       The main purpose of the app is to help people and ultimately save lifes. Although the free version includes all basics to reach this goal, developing an maintaining such an app has a cost. The premium version help us to continue the development of the app but also gives you access to more features (e.g. creating multiple profiles, customising widgets, etc.).
       <table class="table table-hover" style="background-color: white;">
@@ -54,16 +54,22 @@ layout: default
       </p>
     </div>
     <div class="faq-entry">
-      <h4>Q2: How can I edit a profile?</h4>
+      <h4 id="editing_profile">Q2: How to edit a profile?</h4>
       <p class="faq-answer">
-        Open the app from the app launcher (i.e. not the lock screen). At this stage you should see a list of cards:  one per existing profile. Tap on the card associated with the profile to edit, for instance the image profile.
+        Editing a profile requires opening the app from the app launcher (i.e. not the lock screen). Once done, a list of cards is displayed: one per existing profile. Tap on the card associated with the profile to edit, for instance, the photo. The last action opens the desired profile for the edition. Make your changes and validate them by clicking on the top right side <em>tick</em> icon.
       </p>
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/LQevevMivPY?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
+      </div>
     </div>
     <div class="faq-entry">
-      <h4>Q3: How can I define ICE contacts?</h4>
+      <h4>Q3: How to define ICE contacts?</h4>
       <p class="faq-answer">
-        The app allows to create profiles. Each profile contains a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such action is done, a pop-up appears to select the right contact. On selection, a link is automatically created. This way, when the profile is displayed from the lock screen, anybody can tap the link to open the profile associated to the contact you have defined and call him without unlocking your device.
+        The app allows to create profiles. Each profile contains a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such action is done, a pop-up appears to select the right contact. On selection, a link is automatically created. This way, when the profile is displayed on the lock screen, anybody can tap the link to open the profile associated to the contact you have defined and call him without unlocking your device.
       </p>
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/zaCSbao_fDQ?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
+      </div>
     </div>
     <p>You can't find your question? <a href="/contact">Drop us an email</a> and we'd gladly help you further.</p>
   </div>
