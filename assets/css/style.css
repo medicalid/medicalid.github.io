@@ -44,6 +44,11 @@ h1, h2, h3 {
   margin-bottom: 16px;
 }
 
+.faq-entry h5 {
+  font-weight: bold;
+  margin: 16px 0;
+}
+
 .list-group-item-action:hover {
   background-color: #FFEAEF;
 }

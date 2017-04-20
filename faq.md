@@ -75,13 +75,44 @@ layout: default
     </div>
     
     <div class="faq-entry">
-          <h4 id="preventing_lockscreen_widget_disappearing">Q4: The lock screen widget is disappearing after some time</h4>
-          <p class="faq-answer">
-            The app allows to create profiles. Each profile contains a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such action is done, a pop-up appears to select the right contact. On selection, a link is automatically created. This way, when the profile is displayed on the lock screen, anybody can tap the link to open the profile associated to the contact you have defined and call him without unlocking your device.
-          </p>
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="//www.youtube.com/embed/zaCSbao_fDQ?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
-          </div>
+      <h4 id="preventing_lockscreen_widget_disappearing">Q4: The lock screen widget disappears after some time</h4>
+      <p>Firstly, please check you are not using an antivirus, a task killer, or memory optimization app. If so, try whitelisting Medical ID or disabling the app.</p>
+      <p>Secondly, some manufacturers include an additional battery-saving feature to Android. By default, such a software customization automatically stops apps under conditions (e.g. after 3 days on Samsung devices). Hopefully, the feature can be disabled for a given app.</p>
+      <h5>Samsung devices</h5>
+      <ol>
+        <li>Open the <strong>Settings</strong> app on your device</li>
+        <li>Tap on the <strong>Battery</strong> icon</li>
+        <li>Select <strong>Battery usage</strong></li>
+        <li>Select <strong>More</strong> on the top right side, then <strong>Optimize battery usage</strong></li>
+        <li>Tap on <strong>Apps not optimized</strong>, then select <strong>All apps</strong></li>
+        <li>Scroll down to <strong>Medical ID</strong> app and uncheck the button</li>
+        <li>Medical ID app should now appear in <strong>Apps not optimized</strong>.</li>
+      </ol>
+      
+      If you are still experiencing an issue after this change, please try the following:
+      <ol>
+        <li>Open the <strong>Settings</strong> app on your device</li>
+        <li>Tap on the <strong>Battery</strong> icon</li>
+        <li>Tap on the <strong>Detail</strong> button under the <strong>App power saving</strong> section</li>
+        <li>Disable the feature.</li>
+      </ol>
+      
+      <h5>Huawei devices</h5>
+      <ol>
+        <li>Open the <strong>Phone Manager</strong> (Settings) app on your mobile phone</li>
+        <li>Enter the <strong>Power saving</strong> (Android 5) or <strong>Battery manager</strong> (Android 6) section</li>
+        <li>Select <strong>Protected apps</strong></li>
+        <li>Select <strong>Medical ID</strong> and enable its protection.</li>
+      </ol>
+      <p>For Huawei devices running Android 6 (Marshmallow) or plus, there is an additional battery optimization setting that needs to be changed:</p>  
+      <ol> 
+        <li>Open the <strong>Phone Settings</strong> (Settings)</li>
+        <li>Enter the <strong>Apps</strong> section</li>
+        <li>Enter <strong>Advanced</strong> section</li>
+        <li>Enter <strong>Ignore battery optimizations</strong> section</li>
+        <li>At the top of the list select <strong>All apps</strong></li>
+        <li>Select <strong>Medical ID</strong> and allow to ignore battery optimizations.</li>
+      </ol>
     </div>
     <p>You can't find your question? <a href="/contact">Drop us an email</a> and we'd gladly help you further.</p>
   </div>
