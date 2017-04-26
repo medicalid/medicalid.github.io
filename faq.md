@@ -53,7 +53,7 @@ layout: default
       </table>
       </p>
     </div>
-    
+
     <div class="faq-entry">
       <h4 id="editing_profile">Q2: How to edit a profile?</h4>
       <p class="faq-answer">
@@ -63,7 +63,7 @@ layout: default
         <iframe class="embed-responsive-item" src="//www.youtube.com/embed/LQevevMivPY?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
       </div>
     </div>
-    
+
     <div class="faq-entry">
       <h4 id="defining_ice_contacts">Q3: How to define ICE contacts?</h4>
       <p class="faq-answer">
@@ -73,11 +73,15 @@ layout: default
         <iframe class="embed-responsive-item" src="//www.youtube.com/embed/Ft38F_5BvNA?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
       </div>
     </div>
-    
+
     <div class="faq-entry">
       <h4 id="preventing_lockscreen_widget_disappearing">Q4: The lock screen widget disappears after some time</h4>
-      <p>Firstly, please check you are not using an antivirus, a task killer, or memory optimization app. If so, try whitelisting Medical ID or disabling the app.</p>
-      <p>Secondly, some manufacturers include an additional battery-saving feature to Android. By default, such a software customization automatically stops apps under conditions (e.g. after 3 days on Samsung devices). Hopefully, the feature can be disabled for a given app.</p>
+      <p>As a first step, we recommend to restart the lock screen widget. Open the app from the app launcher, tap on the top right side 3 dots icon and select "Settings", then "Lock screen". Finally, tap twice on the <em>Enable</em> switch button. This action will force a restart of the lock screen widget.</p>
+
+      <p>Once the lock screen widget is restored, please check you are not using an antivirus, a task killer, or memory optimization app. If so, please whistelist Medical ID or disable your antivirus, task killer, or memory optimization app.</p>
+
+      <p>If the issue is still present, please look at your device specific features. Some manufacturers include an additional battery-saving feature to Android. By default, such a software customization automatically stops apps under conditions (e.g. after 3 days on Samsung devices). Hopefully, the feature can be disabled for a given app.</p>
+
       <h5>Samsung devices</h5>
       <ol>
         <li>Open the <strong>Settings</strong> app on your device</li>
@@ -88,7 +92,7 @@ layout: default
         <li>Scroll down to <strong>Medical ID</strong> app and uncheck the button</li>
         <li>Medical ID app should now appear in <strong>Apps not optimized</strong>.</li>
       </ol>
-      
+
       If you are still experiencing an issue after this change, please try the following:
       <ol>
         <li>Open the <strong>Settings</strong> app on your device</li>
@@ -96,7 +100,7 @@ layout: default
         <li>Tap on the <strong>Detail</strong> button under the <strong>App power saving</strong> section</li>
         <li>Disable the feature.</li>
       </ol>
-      
+
       <h5>Huawei devices</h5>
       <ol>
         <li>Open the <strong>Phone Manager</strong> (Settings) app on your mobile phone</li>
@@ -105,7 +109,7 @@ layout: default
         <li>Select <strong>Medical ID</strong> and enable its protection.</li>
       </ol>
       <p>For Huawei devices running Android 6 (Marshmallow) or plus, there is an additional battery optimization setting that needs to be changed:</p>  
-      <ol> 
+      <ol>
         <li>Open the <strong>Phone Settings</strong> (Settings)</li>
         <li>Enter the <strong>Apps</strong> section</li>
         <li>Enter <strong>Advanced</strong> section</li>
