@@ -9,13 +9,13 @@ layout: default
     <div class="faq-entry">
       <h4 id="differences_free_premium">Q1: What are the differences between the free and the premium version?</h4>
       <p class="faq-answer">
-      The main purpose of the app is to help people and ultimately save lifes. Although the free version includes all basics to reach this goal, developing an maintaining such an app has a cost. The premium version help us to continue the development of the app but also gives you access to more features (e.g. creating multiple profiles, customising widgets, etc.).
+      The main purpose of the app is to help people and ultimately save lives. Although the <a href="https://play.google.com/store/apps/details?id=app.medicalid.free" title="Medical ID (free)">free version</a> includes all the basics to reach this goal, developing and maintaining such an app has a cost. The <a href="https://play.google.com/store/apps/details?id=app.medicalid" title="Medical ID (premium)">premium version</a> gives you access to more features (e.g. customizing widgets, backing up your medical information, creating multiple profiles, etc.) but also allows us to maintain and update the app regularly.
       <table class="table table-hover" style="background-color: white;">
         <thead>
           <tr>
             <th></th>
-            <th class="text-center">Free</th>
-            <th class="text-center">Premium</th>
+            <th class="text-center"><a href="https://play.google.com/store/apps/details?id=app.medicalid.free" title="Medical ID (free)">Free</a></th>
+            <th class="text-center"><a href="https://play.google.com/store/apps/details?id=app.medicalid" title="Medical ID (premium)">Premium</a></th>
           </tr>
         </thead>
         <tbody>
@@ -45,6 +45,11 @@ layout: default
             <td>unlimited</td>
           </tr>
           <tr>
+            <th scope="row">Data backup and restoration</th>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
+            <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
+          </tr>
+          <tr>
             <th scope="row">Frequent updates</th>
             <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
             <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
@@ -67,7 +72,7 @@ layout: default
     <div class="faq-entry">
       <h4 id="defining_ice_contacts">Q3: How to define ICE contacts?</h4>
       <p class="faq-answer">
-        The app allows to create profiles. Each profile contains a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such action is done, a pop-up appears to select the right contact. On selection, a link is automatically created. This way, when the profile is displayed on the lock screen, anybody can tap the link to open the profile associated to the contact you have defined and call him without unlocking your device.
+        The app allows creating profiles. Each profile contains a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such action is done, a pop-up appears to select the right contact. On selection, a link is automatically created. This way, when the profile is displayed on the lock screen, anybody can tap the link to open the profile associated with the contact you have defined and call him without unlocking your device.
       </p>
       <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="//www.youtube.com/embed/Ft38F_5BvNA?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
@@ -76,9 +81,9 @@ layout: default
 
     <div class="faq-entry">
       <h4 id="preventing_lockscreen_widget_disappearing">Q4: The lock screen widget disappears after some time</h4>
-      <p>As a first step, we recommend to restart the lock screen widget. Open the app from the app launcher, tap on the top right side 3 dots icon and select "Settings", then "Lock screen". Finally, tap twice on the <em>Enable</em> switch button. This action will force a restart of the lock screen widget.</p>
+      <p>As a first step, we recommend restarting the lock screen widget. Open the app from the app launcher, tap on the top right side 3 dots icon and select "Settings", then "Lock screen". Finally, tap twice on the <em>Enable</em> switch button. This action will force a restart of the lock screen widget.</p>
 
-      <p>Once the lock screen widget is restored, please check you are not using an antivirus, a task killer, or memory optimization app. If so, please whistelist Medical ID or disable your antivirus, task killer, or memory optimization app.</p>
+      <p>Once the lock screen widget is restored, please check you are not using an antivirus, a task killer, or memory optimization app. If so, please whitelist Medical ID or disable your antivirus, task killer, or memory optimization app.</p>
 
       <p>If the issue is still present, please look at your device specific features. Some manufacturers include an additional battery-saving feature to Android. By default, such a software customization automatically stops apps under conditions (e.g. after 3 days on Samsung devices). Hopefully, the feature can be disabled for a given app.</p>
 

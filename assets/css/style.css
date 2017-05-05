@@ -35,6 +35,10 @@ h1, h2, h3 {
   margin: 24px 0;
 }
 
+th a, th a:visited, th a:active {
+    color: #333333;
+}
+
 .faq-entry {
   margin-bottom: 40px;
 }
