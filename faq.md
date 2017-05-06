@@ -86,7 +86,33 @@ layout: default
       <p>Once the lock screen widget is restored, please check you are not using an antivirus, a task killer, or memory optimization app. If so, please whitelist Medical ID or disable your antivirus, task killer, or memory optimization app.</p>
 
       <p>If the issue is still present, please look at your device specific features. Some manufacturers include an additional battery-saving feature to Android. By default, such a software customization automatically stops apps under conditions (e.g. after 3 days on Samsung devices). Hopefully, the feature can be disabled for a given app.</p>
-
+      <h5>Asus devices</h5>
+      <p>Asus provides an exclusive app named <strong>Auto-Start Manager</strong> that helps your device to manage the system to its total optimization. However, this feature is really aggressive and prevents some app such as Medical ID from working properly.</p>
+      <ol>
+        <li>Launch <strong>Auto-start Manager</strong>.</li>
+        <li>Slide the <strong>Deny</strong> button to the right (i.e. becomes Allow) for the Medical ID app.</li>
+        <li>Tap the 3 dots button and select <strong>Settings</strong>.</li>
+        <li>Make sure the option <strong>Clean up in suspend</strong> is disabled but <strong>Enable notifications</strong> is enabled.</li>
+      </ol>
+      <p>More information is available on the <a href="http://zenuisupport.asus.com/knowledgebase/articles/740559-what-does-clean-up-in-suspend-option-do-to-my-apps">Asus support page</a>.</p>
+      
+      <h5>Huawei devices</h5>
+      <ol>
+        <li>Open the <strong>Phone Manager</strong> (Settings) app on your mobile phone</li>
+        <li>Enter the <strong>Power saving</strong> (Android 5) or <strong>Battery manager</strong> (Android 6) section</li>
+        <li>Select <strong>Protected apps</strong></li>
+        <li>Select <strong>Medical ID</strong> and enable its protection.</li>
+      </ol>
+      <p>For Huawei devices running Android 6 (Marshmallow) or plus, there is an additional battery optimization setting that needs to be changed:</p>  
+      <ol>
+        <li>Open the <strong>Phone Settings</strong> (Settings)</li>
+        <li>Enter the <strong>Apps</strong> section</li>
+        <li>Enter <strong>Advanced</strong> section</li>
+        <li>Enter <strong>Ignore battery optimizations</strong> section</li>
+        <li>At the top of the list select <strong>All apps</strong></li>
+        <li>Select <strong>Medical ID</strong> and allow to ignore battery optimizations.</li>
+      </ol>
+      
       <h5>Samsung devices</h5>
       <ol>
         <li>Open the <strong>Settings</strong> app on your device</li>
@@ -104,23 +130,6 @@ layout: default
         <li>Tap on the <strong>Battery</strong> icon</li>
         <li>Tap on the <strong>Detail</strong> button under the <strong>App power saving</strong> section</li>
         <li>Disable the feature.</li>
-      </ol>
-
-      <h5>Huawei devices</h5>
-      <ol>
-        <li>Open the <strong>Phone Manager</strong> (Settings) app on your mobile phone</li>
-        <li>Enter the <strong>Power saving</strong> (Android 5) or <strong>Battery manager</strong> (Android 6) section</li>
-        <li>Select <strong>Protected apps</strong></li>
-        <li>Select <strong>Medical ID</strong> and enable its protection.</li>
-      </ol>
-      <p>For Huawei devices running Android 6 (Marshmallow) or plus, there is an additional battery optimization setting that needs to be changed:</p>  
-      <ol>
-        <li>Open the <strong>Phone Settings</strong> (Settings)</li>
-        <li>Enter the <strong>Apps</strong> section</li>
-        <li>Enter <strong>Advanced</strong> section</li>
-        <li>Enter <strong>Ignore battery optimizations</strong> section</li>
-        <li>At the top of the list select <strong>All apps</strong></li>
-        <li>Select <strong>Medical ID</strong> and allow to ignore battery optimizations.</li>
       </ol>
     </div>
     <p>Some tutorials are available on our <a href="https://www.youtube.com/channel/UCujXq86kWKvZzKKW7icJKIA/videos" title="Medical ID Youtube channel">Youtube channel</a>.</p>
