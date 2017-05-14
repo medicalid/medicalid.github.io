@@ -9,6 +9,9 @@ layout: default
          <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="width: 100%;">
            <div class="carousel-inner" role="listbox">
              <div class="carousel-item active">
+               <img class="d-block img-fluid" src="/assets/images/example-profile.png" alt="Profile example">
+             </div>
+             <div class="carousel-item">
                <img class="d-block img-fluid" src="/assets/images/example-lockscreen-notification.png" alt="Lock screen notification example">
              </div>
              <div class="carousel-item">
@@ -16,9 +19,6 @@ layout: default
              </div>
              <div class="carousel-item">
                <img class="d-block img-fluid" src="/assets/images/example-lockscreen-floating-icon.png" alt="Lock screen floating icon example">
-             </div>
-             <div class="carousel-item">
-               <img class="d-block img-fluid" src="/assets/images/example-profile.png" alt="Profile example">
              </div>
            </div>
            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
