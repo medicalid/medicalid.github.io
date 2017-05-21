@@ -96,7 +96,7 @@ layout: default
       </ol>
       <p>More information is available on the <a href="http://zenuisupport.asus.com/knowledgebase/articles/740559-what-does-clean-up-in-suspend-option-do-to-my-apps">Asus support page</a>.</p>
       
-      <h5>Huawei devices</h5>
+      <h5 id="huawei">Huawei devices</h5>
       <ol>
         <li>Open the <strong>Phone Manager</strong> (Settings) app on your mobile phone</li>
         <li>Enter the <strong>Power saving</strong> (Android 5) or <strong>Battery manager</strong> (Android 6) section</li>
@@ -113,7 +113,7 @@ layout: default
         <li>Select <strong>Medical ID</strong> and allow to ignore battery optimizations.</li>
       </ol>
       
-      <h5>Samsung devices</h5>
+      <h5 id="samsung">Samsung devices</h5>
       <ol>
         <li>Open the <strong>Settings</strong> app on your device</li>
         <li>Tap on the <strong>Battery</strong> icon</li>
@@ -123,7 +123,7 @@ layout: default
         <li>Scroll down to <strong>Medical ID</strong> app and uncheck the button</li>
         <li>Medical ID app should now appear in <strong>Apps not optimized</strong>.</li>
       </ol>
-
+      
       If you are still experiencing an issue after this change, please try the following:
       <ol>
         <li>Open the <strong>Settings</strong> app on your device</li>
@@ -131,6 +131,17 @@ layout: default
         <li>Tap on the <strong>Detail</strong> button under the <strong>App power saving</strong> section</li>
         <li>Disable the feature.</li>
       </ol>
+      
+      <h5 id="xiaomi">Xiaomi devices</h5>
+      Please check and try the following for Xiamo devices running MIUI:
+      <ol>
+        <li>Go to <strong>Settings</strong>, <strong>Manage apps' battery usage</strong> and choose <strong>Apps</strong>. From there, pick all the apps you want to receive push notifications and select <strong>No restrictions</strong>.</li>
+        <li>Go to <strong>Settings</strong>, <strong>Permissions</strong>, <strong>Autostart</strong>. From there, pick the apps you want to receive notifications, and toggle the switch to turn it on.</li>
+        <li>Go to <strong>Settings</strong>, <strong>App notifications</strong> and pick the apps you want to receive notifications, then turn the toggle for <strong>Priority</strong> on.</li>
+        <li>Lock the app in the <strong>Recent Apps</strong>/<strong>App Overview</strong> pane. Do so by first opening the app, then press the <strong>Recent Apps</strong>/<strong>App Overview</strong> (that's the square button on stock Android, or the button with three horizontal lines on the Mi Mix). From there, find the app you want to receive notifications, pull down on it to "lock it", so it never gets cleared.</li>
+      </ol>
+      
+      More information along with images are available on the <a href="http://en.miui.com/thread-268224-1-1.html" title="Fix Late Notifications!! Get all your notifications instantly!!">MIUI community forum</a>.
     </div>
     <div class="faq-entry">
       <h4 id="editing_default_alert_message">Q5: How to edit the default SMS alert message?</h4>
