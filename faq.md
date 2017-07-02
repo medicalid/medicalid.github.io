@@ -65,7 +65,7 @@ layout: default
         Editing a profile requires opening the app from the app launcher (i.e. not the lock screen). Once done, a list of cards is displayed: one per existing profile. Identify the card associated with the profile you want to modify, then tap on the "Edit" button. This action opens the profile you have selected for edition. Make your changes and validate by clicking on the top right side <em>tick</em> icon.
       </p>
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="//youtu.be/whMDlKI4Lk4" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/whMDlKI4Lk4?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -75,7 +75,7 @@ layout: default
         The app allows creating profiles. Each profile contains a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such action is done, a pop-up appears to select the right contact. Upon selection, a link is automatically created. This way, when the profile is displayed on the lock screen, anybody can tap the link to open the profile associated with the contact you have defined and call him without unlocking your device.
       </p>
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="//youtu.be/yz2F9qz7MLA" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/yz2F9qz7MLA?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
       </div>
     </div>
 
