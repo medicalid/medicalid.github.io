@@ -95,7 +95,7 @@ layout: default
         <li>Make sure the option <strong>Clean up in suspend</strong> is disabled but <strong>Enable notifications</strong> is enabled.</li>
       </ol>
       <p>More information is available on the <a href="http://zenuisupport.asus.com/knowledgebase/articles/740559-what-does-clean-up-in-suspend-option-do-to-my-apps">Asus support page</a>.</p>
-      
+
       <h5 id="huawei">Huawei devices</h5>
       <ol>
         <li>Open the <strong>Phone Manager</strong> (Settings) app on your mobile phone</li>
@@ -112,7 +112,7 @@ layout: default
         <li>At the top of the list select <strong>All apps</strong></li>
         <li>Select <strong>Medical ID</strong> and allow to ignore battery optimizations.</li>
       </ol>
-      
+
       <h5 id="samsung">Samsung devices</h5>
       <ol>
         <li>Open the <strong>Settings</strong> app on your device</li>
@@ -123,7 +123,7 @@ layout: default
         <li>Scroll down to <strong>Medical ID</strong> app and uncheck the button</li>
         <li>Medical ID app should now appear in <strong>Apps not optimized</strong>.</li>
       </ol>
-      
+
       If you are still experiencing an issue after this change, please try the following:
       <ol>
         <li>Open the <strong>Settings</strong> app on your device</li>
@@ -131,7 +131,7 @@ layout: default
         <li>Tap on the <strong>Detail</strong> button under the <strong>App power saving</strong> section</li>
         <li>Disable the feature.</li>
       </ol>
-      
+
       <h5 id="xiaomi">Xiaomi devices</h5>
       Please check and try the following for Xiamo devices running MIUI:
       <ol>
@@ -140,18 +140,18 @@ layout: default
         <li>Go to <strong>Settings</strong>, <strong>App notifications</strong> and pick the apps you want to receive notifications, then turn the toggle for <strong>Priority</strong> on.</li>
         <li>Lock the app in the <strong>Recent Apps</strong>/<strong>App Overview</strong> pane. Do so by first opening the app, then press the <strong>Recent Apps</strong>/<strong>App Overview</strong> (that's the square button on stock Android, or the button with three horizontal lines on the Mi Mix). From there, find the app you want to receive notifications, pull down on it to "lock it", so it never gets cleared.</li>
       </ol>
-      
+
       More information along with images are available on the <a href="http://en.miui.com/thread-268224-1-1.html" title="Fix Late Notifications!! Get all your notifications instantly!!">MIUI community forum</a>.
     </div>
     <div class="faq-entry">
       <h4 id="editing_default_alert_message">Q5: How to edit the default SMS alert message?</h4>
       <p class="faq-answer">
         Open the app, tap on the top right 3 dots button, select <strong>Settings</strong> then <strong>Alerts</strong>. At this stage, you should find a section called <strong>SMS alert message</strong>. Tap on it, set the message you want and confirm with <em>OK</em>.
-        
-        Please note that your message may contain what we call <strong>placeholders</strong>. Placeholders are replaced automatically by their corresponding value just before the message is sent. 
-        
+
+        Please note that your message may contain what we call <strong>placeholders</strong>. Placeholders are replaced automatically by their corresponding value just before the message is sent.
+
         There exist 4 placeholders:
-        
+
         <ul>
           <li><strong>$firstname</strong> is replaced by the first name set on your top profile.</li>
           <li><strong>$lastname</strong> is replaced by the last name set on your top profile.</li>
@@ -160,7 +160,16 @@ layout: default
         </ul>
       </p>
     </div>
+    
+    <div class="faq-entry">
+      <h4 id="android_o">Q6: Medical ID behaves differently since Android 8.0 Oreo?</h4>
+      <p class="faq-answer">
+        Android 8.0 Oreo includes a variety of system changes. It is no longer allowed to display a floating icon on the lock screen. If you were using this feature, now it falls back to the notification. Also you may have noticed a persistent "X is running in the background" or "apps are running in the background" notifications. The purpose of these notifications is to highlight users about apps that are consuming battery in the background. This is a highly controversial new feature of Android 8.0 Oreo since there is no built-in option to whitelist apps which are OK. Hopefully, a third-party app called <a href="https://play.google.com/store/apps/details?id=app.rubber.remove.is.running.in.the.background.notification" title="Remove boring Android 8.0 'running in the background' notifications">Rubber</a> allows erasing such boring notifications. We recommend to use it if you want to get rid of them.
+      </p>
+    </div>
+    
     <p>Some tutorials are available on our <a href="https://www.youtube.com/channel/UCujXq86kWKvZzKKW7icJKIA/videos" title="Medical ID Youtube channel">Youtube channel</a>.</p>
     <p>Can't you find your question? <a href="/contact">Drop us an email</a> and we'd gladly help you further.</p>
   </div>
+
 </div>
