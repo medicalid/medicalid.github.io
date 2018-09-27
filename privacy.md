@@ -3,17 +3,17 @@ layout: default
 ---
 # Privacy policy
 
-Last updated: _July 28, 2016_.
+Last updated: _September 27, 2018_.
 
 Medical data entered while creating profiles is only used on the device(s) where the app is installed and not given to any third parties without your consent.
 
-Depending of the version you are using, the app may require some permissions to access your location, contacts but also to make phone calls and send SMS. All permissions that are requested are solely used to enable app features.
+Depending of the version you are using, the app may require some permissions to access your contacts but also to make phone calls and send SMS. All permissions these are requested are solely used to enable the app purposes.
 
 ## Non continuous geolocation
 
-This Application may collect, use, and share User location Data in order to provide location-based services. Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, the User’s location data may be tracked by this Application. The geographic location of the User is determined in a manner that isn't continuous, either at the specific request of the User or when the User doesn't point out its current location in the appropriate field and allows the application to detect the position automatically.
+This Application may collect, use, and share User location Data in order to provide location-based services (and for interest-based advertising, analytics, attribution and research with the Free version of the app only). Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, the User’s location data may be tracked by this Application. The geographic location of the User is determined in a manner that isn't continuous, either at the specific request of the User or when the User doesn't point out its current location in the appropriate field and allows the application to detect the position automatically.
 
-Personal Data collected: geographic position.
+Personal Data collected: anonymous geographic position.
 
 ## Displaying content from external platforms
 
