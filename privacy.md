@@ -3,15 +3,15 @@ layout: default
 ---
 # Privacy policy
 
-Last updated: _September 27, 2018_.
+Last updated: _October 27, 2018_.
 
 Medical data entered while creating profiles is only used on the device(s) where the app is installed and not given to any third parties without your consent.
 
 Depending of the version you are using, the app may require some permissions to access your contacts but also to make phone calls and send SMS. All permissions these are requested are solely used to enable the app purposes.
 
-## Non continuous geolocation
+## Geolocation
 
-This Application may collect, use, and share User location Data in order to provide location-based services (and for interest-based advertising, analytics, attribution and research with the Free version of the app only). Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, the User’s location data may be tracked by this Application. The geographic location of the User is determined in a manner that isn't continuous, either at the specific request of the User or when the User doesn't point out its current location in the appropriate field and allows the application to detect the position automatically.
+This Application may collect, use, and share User location Data in order to provide location-based services. Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, the User’s location data may be tracked by this Application.
 
 Personal Data collected: anonymous geographic position.
 
@@ -26,6 +26,10 @@ Google Maps is a maps visualization service provided by Google Inc. that allows 
 Personal Data collected: Cookies and Usage data.
 
 Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+
+## Others
+
+To help us improve our service we collect (with the free version of the app only) the following information on an anonymous basis: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Internal MAC address (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale. In addition to helping us to measure the usage of our app this anonymous information is shared with third parties for their business purposes, including the creation of reports, market research and trend analysis. One of these third parties is Huq.io, data shared does not contain information from which users can be identified and we will not provide additional information to such third parties that enables such third parties to identify you.
 
 ## Changes to this privacy
 
