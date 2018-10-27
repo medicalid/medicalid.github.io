@@ -35,4 +35,4 @@ To help us improve our service we collect (with the free version of the app only
 
 We reserve the right to make changes to this privacy policy at any time by giving notice on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the top. If you object to any of the changes to the Policy, you must cease using Laurent Pellegrino Services.
 
-If you have any question, you may contact <a href="http://www.google.com/recaptcha/mailhide/d?k=01f0mKNqdOfUjYpjqXkwR1Tw==&amp;c=-MTky3_chhbKsPHCU6GWQxQNosSSPOvkvQSYfVlBTDoIh0e8Lt2Oz4kxYwK9ENni" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d01f0mKNqdOfUjYpjqXkwR1Tw\x3d\x3d\x26c\x3d-MTky3_chhbKsPHCU6GWQxQNosSSPOvkvQSYfVlBTDoIh0e8Lt2Oz4kxYwK9ENni', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">l...@medicalid.info</a>.
+If you have any question, you may contact <a href="contact@medicalid.app">contact@medicalid.app</a>.
