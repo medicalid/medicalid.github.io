@@ -58,7 +58,7 @@ layout: default
 <div class="media" style="margin-top:36px">
   <div class="media-body">
     <div id="google-play" class="row justify-content-center text-center">
-      <a href="https://get.medicalid.info" title="Get Medical ID app on Google Play" target="_blank"><img class="d-block img-fluid" src="/assets/images/google-play.png"></a>
+      <a href="https://get.medicalid.app" title="Get Medical ID app on Google Play" target="_blank"><img class="d-block img-fluid" src="/assets/images/google-play.png"></a>
     </div>
   </div>
 </div>
