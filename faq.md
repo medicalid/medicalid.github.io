@@ -9,7 +9,7 @@ layout: default
     <div class="faq-entry">
       <h4 id="differences_free_premium">Q1: What are the differences between the free and the premium version?</h4>
       <p class="faq-answer">
-      The main purpose of the app is to help people and ultimately save lives. Although the <a href="https://play.google.com/store/apps/details?id=app.medicalid.free" title="Medical ID (free)">free version</a> includes all the basics to reach this goal, developing and maintaining such an app has a cost. The <a href="https://play.google.com/store/apps/details?id=app.medicalid" title="Medical ID (premium)">premium version</a> gives you access to more features (e.g. customizing widgets, backing up your medical information, creating multiple profiles, etc.) but also allows us to maintain and update the app regularly.
+      The main purpose of the app is to help people and ultimately save lives. Although the <a href="https://play.google.com/store/apps/details?id=app.medicalid.free" title="Medical ID (free)">free version</a> includes all the basics to reach this goal, developing and maintaining such an app has a cost. The <a href="https://play.google.com/store/apps/details?id=app.medicalid" title="Medical ID (premium)">premium version</a> gives you access to more features (e.g. customizing lock screen widget, backing up your medical information, creating multiple profiles, etc.) but also allows us to maintain and update the app regularly.
       <table class="table table-hover" style="background-color: white;">
         <thead>
           <tr>
@@ -30,7 +30,7 @@ layout: default
             <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
           </tr>
           <tr>
-            <th scope="row">Customisable lock screen widgets</th>
+            <th scope="row">Customizable lock screen widget</th>
             <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: #fe0038;" class="octicon octicon-x" aria-hidden="true"><use xlink:href="#x" /></svg></td>
             <td><svg version="1.1" width="24" height="32" viewBox="0 0 12 16" style="fill: green;" class="octicon octicon-check" aria-hidden="true"><use xlink:href="#check" /></svg></td>
           </tr>
@@ -80,68 +80,18 @@ layout: default
     </div>
 
     <div class="faq-entry">
-      <h4 id="preventing_lockscreen_widget_disappearing">Q4: The lock screen widget disappears after some time</h4>
-      <p>As a first step, we recommend restarting the lock screen widget. Open the app from the app launcher, tap on the top right side 3 dots icon and select "Settings", then "Lock screen". Finally, tap twice on the <em>Enable</em> switch button. This action will force a restart of the lock screen widget.</p>
+      <h4 id="preventing_lockscreen_widget_disappearing">Q4: The lock screen floating icon disappears after some time</h4>
+      <p>Medical ID unfortunately has no control over this - Android disable it on some devices and we cannot prevent this. However, on most devices, you can fix it by disabling app optimization for Medical ID in Settings to stop Android from switching off the accessibility service that runs the lock screen floating icon. This is usually found in Settings > Battery.
+</p>
 
-      <p>Once the lock screen widget is restored, please check you are not using an antivirus, a task killer, or memory optimization app. If so, please whitelist Medical ID or disable your antivirus, task killer, or memory optimization app.</p>
+<p>For example on the Samsung S8, go to Android Settings > General > Battery > look under App Optimization and select Details. Then find Medical ID and turn it off.</p>
 
-      <p>If the issue is still present, please look at your device specific features. Some manufacturers include an additional battery-saving feature to Android. By default, such a software customization automatically stops apps under conditions (e.g. after 3 days on Samsung devices). Hopefully, the feature can be disabled for a given app.</p>
-      <h5>Asus devices</h5>
-      <p>Asus provides an exclusive app named <strong>Auto-Start Manager</strong> that helps your device to manage the system to its total optimization. However, this feature is really aggressive and prevents some app such as Medical ID from working properly.</p>
-      <ol>
-        <li>Launch <strong>Auto-start Manager</strong>.</li>
-        <li>Slide the <strong>Deny</strong> button to the right (i.e. becomes Allow) for the Medical ID app.</li>
-        <li>Tap the 3 dots button and select <strong>Settings</strong>.</li>
-        <li>Make sure the option <strong>Clean up in suspend</strong> is disabled but <strong>Enable notifications</strong> is enabled.</li>
-      </ol>
-      <p>More information is available on the <a href="http://zenuisupport.asus.com/knowledgebase/articles/740559-what-does-clean-up-in-suspend-option-do-to-my-apps">Asus support page</a>.</p>
+<p>On other devices, you may have to specify that Medical ID should be ignored in battery optimization. For example, on Huawei phones, go to Settings > Apps > Advanced Options > Ignore Optimations and toggle "allow" for Medical ID.</p>
 
-      <h5 id="huawei">Huawei devices</h5>
-      <ol>
-        <li>Open the <strong>Phone Manager</strong> (Settings) app on your mobile phone</li>
-        <li>Enter the <strong>Power saving</strong> (Android 5) or <strong>Battery manager</strong> (Android 6) section</li>
-        <li>Select <strong>Protected apps</strong></li>
-        <li>Select <strong>Medical ID</strong> and enable its protection.</li>
-      </ol>
-      <p>For Huawei devices running Android 6 (Marshmallow) or plus, there is an additional battery optimization setting that needs to be changed:</p>  
-      <ol>
-        <li>Open the <strong>Phone Settings</strong> (Settings)</li>
-        <li>Enter the <strong>Apps</strong> section</li>
-        <li>Enter <strong>Advanced</strong> section</li>
-        <li>Enter <strong>Ignore battery optimizations</strong> section</li>
-        <li>At the top of the list select <strong>All apps</strong></li>
-        <li>Select <strong>Medical ID</strong> and allow to ignore battery optimizations.</li>
-      </ol>
+<p>If Medical ID is running on an SD card (external storage), that means it's "unavailable" when the system boots. This can turn off the accessibility service that is required to show the floating icon on your lock screen. Try moving it back to main storage.</p>
 
-      <h5 id="samsung">Samsung devices</h5>
-      <ol>
-        <li>Open the <strong>Settings</strong> app on your device</li>
-        <li>Tap on the <strong>Battery</strong> icon</li>
-        <li>Select <strong>Battery usage</strong></li>
-        <li>Select <strong>More</strong> on the top right side, then <strong>Optimize battery usage</strong></li>
-        <li>Tap on <strong>Apps not optimized</strong>, then select <strong>All apps</strong></li>
-        <li>Scroll down to <strong>Medical ID</strong> app and uncheck the button</li>
-        <li>Medical ID app should now appear in <strong>Apps not optimized</strong>.</li>
-      </ol>
+<p>In all cases, we recommend checking that Medical ID Accessibility Service is on.</p>
 
-      If you are still experiencing an issue after this change, please try the following:
-      <ol>
-        <li>Open the <strong>Settings</strong> app on your device</li>
-        <li>Tap on the <strong>Battery</strong> icon</li>
-        <li>Tap on the <strong>Detail</strong> button under the <strong>App power saving</strong> section</li>
-        <li>Disable the feature.</li>
-      </ol>
-
-      <h5 id="xiaomi">Xiaomi devices</h5>
-      Please check and try the following for Xiamo devices running MIUI:
-      <ol>
-        <li>Go to <strong>Settings</strong>, <strong>Manage apps' battery usage</strong> and choose <strong>Apps</strong>. From there, pick all the apps you want to receive push notifications and select <strong>No restrictions</strong>.</li>
-        <li>Go to <strong>Settings</strong>, <strong>Permissions</strong>, <strong>Autostart</strong>. From there, pick the apps you want to receive notifications, and toggle the switch to turn it on.</li>
-        <li>Go to <strong>Settings</strong>, <strong>App notifications</strong> and pick the apps you want to receive notifications, then turn the toggle for <strong>Priority</strong> on.</li>
-        <li>Lock the app in the <strong>Recent Apps</strong>/<strong>App Overview</strong> pane. Do so by first opening the app, then press the <strong>Recent Apps</strong>/<strong>App Overview</strong> (that's the square button on stock Android, or the button with three horizontal lines on the Mi Mix). From there, find the app you want to receive notifications, pull down on it to "lock it", so it never gets cleared.</li>
-      </ol>
-
-      More information along with images are available on the <a href="http://en.miui.com/thread-268224-1-1.html" title="Fix Late Notifications!! Get all your notifications instantly!!">MIUI community forum</a>.
     </div>
     <div class="faq-entry">
       <h4 id="editing_default_alert_message">Q5: How to edit the default SMS alert message?</h4>
