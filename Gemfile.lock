@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     medicalid (1.0.0)
-      jekyll (~> 3.3)
+      jekyll (~> 3.8.5)
 
 GEM
   remote: https://rubygems.org/
