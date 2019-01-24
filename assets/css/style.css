@@ -1,38 +1,34 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Palanquin');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Palanquin|Palanquin+Dark');
 
 html, body {
-  font-family: Palanquin, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  margin: 0px;
-  padding: 0px;
-  text-align: justify;
-  text-justify: inter-word;
-  text-rendering: optimizeLegibility;
-  text-rendering: geometricPrecision;
-  font-smooth: always;
+    font-family: Palanquin, Arial,Noto Sans,sans-serif;
+    margin: 0;
+    padding: 0;
+    text-rendering: geometricPrecision;
 }
 
 body {
-  background-color: #F4F5F6;
-  font-size: 1.1em;
+    background-color: #f8f9fa;
+    font-size: 1.1em;
 }
 
 .carousel-inner img {
-  margin: auto;
+    margin: auto;
 }
 
 footer {
-  margin: 32px;
+    margin: 32px;
 }
 
 h1 {
-  font-family: 'Oswald', sans-serif;
-  padding: 24px 0;
-  text-align: center;
-  text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    padding: 24px 0;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 h1, h2, h3 {
-  margin: 24px 0;
+    margin: 24px 0;
 }
 
 th a, th a:visited, th a:active {
@@ -40,31 +36,35 @@ th a, th a:visited, th a:active {
 }
 
 .faq-entry {
-  margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 
 .faq-entry h4 {
-  font-weight: bold;
-  margin-bottom: 16px;
-  text-decoration: underline;
-  padding-bottom: 3px
+    font-weight: bold;
+    margin-bottom: 16px;
+    text-decoration: underline;
+    padding-bottom: 3px
 }
 
 .faq-entry h5 {
-  font-weight: bold;
-  margin: 16px 0;
+    font-weight: bold;
+    margin: 16px 0;
+}
+
+.list-group-item-action {
+    padding: 1rem 1.75rem 1rem 1.5rem;
 }
 
 .list-group-item-action:hover {
-  background-color: #FFEAEF;
+    background-color: #FFEAEF;
 }
 
 .oswald {
-  font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
 
 .nav-item {
-   padding-left: 16px;
+    padding-left: 16px;
 }
 
 .nav-link, .nav-link:visited, .nav-link:active {
@@ -72,12 +72,12 @@ th a, th a:visited, th a:active {
 }
 
 .nav-link:hover {
-     color: #fe0038 !important;
-     opacity: 0.5;
+    color: #fe0038 !important;
+    opacity: 0.5;
 }
 
 .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
-  background-color: #fceff2;
+    background-color: #FFEAEF;
 }
 
 .table {
@@ -104,6 +104,7 @@ th a, th a:visited, th a:active {
 .footer, .footer:visited, .footer:active {
     color: #292b2c;
 }
+
 .footer:hover {
     color: #292b2c;
 }
@@ -112,17 +113,19 @@ th a, th a:visited, th a:active {
     color: #292b2c;
     text-decoration: underline;
 }
+
 .footer-underlined:hover {
     color: #292b2c;
     text-decoration: none;
 }
 
 .review {
-  background-color: white;
-  border: 1px solid #e1e1e1;
-  border-radius: 8px;
-  padding: 24px;
-  text-align: center;
+    background-color: white;
+    border: 1px solid #e1e1e1;
+    border-radius: 8px;
+    color: #777;
+    padding: 24px;
+    text-align: center;
 }
 
 .review img {
@@ -130,85 +133,106 @@ th a, th a:visited, th a:active {
 }
 
 .review-author {
-  font-size: 1.2em;
-  font-weight: 600;
-  padding-top: 16px;
+    color: #212529;
+    font-size: 1.2em;
+    font-weight: 600;
+    padding-top: 16px;
 }
 
 .review-row {
-  margin: 24px 0;
+    margin: 24px 0;
 }
 
-.btn-highlight {
+.try-now {
     background-color: #fe0038;
     color: white;
-    font-weight: 800;
+    font-family: 'Palanquin Dark', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 14px;
+    margin-left: 24px;
+    padding: 10px 20px;
+    text-transform: uppercase;
 }
 
-.btn-highlight, .btn-highlight:focus, .btn-highlight:active {
-    border: none !important;
-    outline: none !important;
+.try-now:hover {
+    background-color: #266fff;
+    color: white;
 }
 
 #content {
-  margin-top: 32px;
+    margin-top: 32px;
 }
 
 .navbar {
-  background-color: white;
-  border-bottom: 1px solid #e1e1e1;
-  font-weight: 500;
-  line-height: 60px;
+    background-color: white;
+    box-shadow: 0 0.12rem 0.125rem 0 rgba(0,0,0,0.05);
+    font-weight: 500;
+    line-height: 86px;
 }
 
 #icon {
-  height:auto;
-  -webkit-animation:rotating 1.5s;
-  -moz-animation:rotating 1.5s;
-  -ms-animation:rotating 1.5s;
-  -o-animation:rotating 1.5s;
-  animation:rotating 1.5s;
+    height: auto;
+    -webkit-animation: rotating 1.5s;
+    -moz-animation: rotating 1.5s;
+    -ms-animation: rotating 1.5s;
+    -o-animation: rotating 1.5s;
+    animation: rotating 1.5s;
 }
 
-#google-play img{
-  -webkit-transition:0.2s;
-  opacity:1;
+#google-play img {
+    -webkit-transition: 0.2s;
+    opacity: 1;
 }
 
-#google-play img:hover{
-  opacity:0.6;
+#google-play img:hover {
+    opacity: 0.6;
 }
 
 @-webkit-keyframes rotating {
-  from{
-    -ms-transform:rotate(0deg);
-    -moz-transform:rotate(0deg);
-    -webkit-transform:rotate(0deg);
-    -o-transform:rotate(0deg);
-    transform:rotate(0deg);
-  }
-  to {
-    -ms-transform:rotate(360deg);
-    -moz-transform:rotate(360deg);
-    -webkit-transform:rotate(360deg);
-    -o-transform:rotate(360deg);
-    transform:rotate(360deg);
-  }
+    from {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
 }
 
 @keyframes rotating {
-  from{
-    -ms-transform:rotate(0deg);
-    -moz-transform:rotate(0deg);
-    -webkit-transform:rotate(0deg);
-    -o-transform:rotate(0deg);
-    transform:rotate(0deg);
-  }
-  to {
-    -ms-transform:rotate(360deg);
-    -moz-transform:rotate(360deg);
-    -webkit-transform:rotate(360deg);
-    -o-transform:rotate(360deg);
-    transform:rotate(360deg);
-  }
+    from {
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    to {
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+
+li i {
+    color: green;
+    margin-right: 12px;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: #d60001;
 }

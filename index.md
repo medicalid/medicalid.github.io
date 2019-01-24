@@ -12,13 +12,10 @@ layout: default
                <img class="d-block img-fluid" src="/assets/images/example-profile.png" alt="Profile example">
              </div>
              <div class="carousel-item">
-               <img class="d-block img-fluid" src="/assets/images/example-lockscreen-notification.png" alt="Lock screen notification example">
+               <img class="d-block img-fluid" src="/assets/images/example-lockscreen-floating-icon.png" alt="Lock screen floating icon example">
              </div>
              <div class="carousel-item">
                <img class="d-block img-fluid" src="/assets/images/example-lockscreen-overlay.png" alt="Lock screen overlay example">
-             </div>
-             <div class="carousel-item">
-               <img class="d-block img-fluid" src="/assets/images/example-lockscreen-floating-icon.png" alt="Lock screen floating icon example">
              </div>
            </div>
            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -42,14 +39,14 @@ layout: default
     </div>
     <div class="row justify-content-center">
       <ul class="list-group">
-        <li class="list-group-item list-group-item-action">Quick access to medical information from the lock screen</li>
-        <li class="list-group-item list-group-item-action">Support multiple profiles for family medical information</li>
-        <li class="list-group-item list-group-item-action">ICE contacts definition and call from the lock screen without unlocking</li>
-        <li class="list-group-item list-group-item-action">Emergency alert feature to send SMS in one tap (including your location if available)</li>
-        <li class="list-group-item list-group-item-action">Body Mass Index (BMI) calculation</li>
-        <li class="list-group-item list-group-item-action">Current location (address, GPS coordinates)</li>
-        <li class="list-group-item list-group-item-action">Nearby hospitals localisation</li>
-        <li class="list-group-item list-group-item-action">Compass</li>
+        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Quick access to medical data from your lock screen.</li>
+        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Support for multiple profiles (e.g. your husband, wife, children).</li>
+        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> ICE contacts definition and direct call from your lock screen.</li>
+        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Alert feature to send an SMS in one tap (including your estimated location).</li>
+        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Body Mass Index (BMI) calculation.</li>
+        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Current location information (address, GPS coordinates).</li>
+        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Nearby hospitals localization.</li>
+        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Compass.</li>
       </ul>
     </div>
   </div>

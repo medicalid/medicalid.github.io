@@ -1,78 +1,95 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="author" content="{{ site.author }}">
-  <meta name="description" content="{{ site.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <link rel="canonical" href="https://medicalid.info/">
-  <link rel="icon" href="/assets/favicon.ico">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Medical ID - The Android app that could save your life!</title>
+    <link rel="canonical" href="https://medicalid.app/">
+    <link rel="icon" href="/assets/favicon.ico">
 
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-  <link rel="stylesheet" href="/assets/css/style.css">
+    <title>Medical ID - The Android app that could save your life!</title>
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130282593-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+          integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/css/style.css">
 
-    gtag('config', 'UA-130282593-1');
-  </script>
-  <script type="text/javascript">window.liveSettings={api_key:"2494f274d57f49809afc157b7d80332f"};</script>
-  <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
-  <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="cd18c37d-63d6-42cc-861a-e5f03e0a6528";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130282593-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-130282593-1');
+    </script>
+    <script type="text/javascript">window.$crisp = [];
+    window.CRISP_WEBSITE_ID = "cd18c37d-63d6-42cc-861a-e5f03e0a6528";
+    (function () {
+        d = document;
+        s = d.createElement("script");
+        s.src = "https://client.crisp.im/l.js";
+        s.async = 1;
+        d.getElementsByTagName("head")[0].appendChild(s);
+    })();</script>
 </head>
 <body>
-    <svg xmlns="http://www.w3.org/2000/svg" style="padding:0; margin:0; height:0; width: 0; line-height:0; font-size: 0; display:none; visibility:hidden;">
-        <symbol viewBox="0 0 12 16" id="check"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></symbol>
-        <symbol viewBox="0 0 12 16" id="x"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></symbol>
-    </svg>
-    <nav class="navbar navbar-toggleable-md navbar-light bg-faded" >
-      <div class="container">
-          <button class="navbar-toggler navbar-toggler-right" style="margin-top:16px" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <button class="navbar-toggler" style="margin-top:16px" type="button" data-toggle="collapse"
+                    data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
-          <a class="navbar-brand" href="/" style="font-size: 1.5em; min-width: 300px;">
-            <img id="icon" src="/assets/images/logo.png" width="40" height="40" class="d-inline-block" alt="Medical ID" style="margin-right: 12px; margin-top: -4px"> Medical ID
-          </a>
+            <a class="navbar-brand" href="/" style="font-size: 1.6em; font-weight: 400; min-width: 300px;">
+                <img id="icon" src="/assets/images/logo.png" width="44" height="44" class="d-inline-block"
+                     alt="Medical ID"
+                     style="margin-right: 16px; margin-top: -4px"> Medical ID
+            </a>
 
-          <div class="collapse navbar-collapse" id="navbarToggler">
-            <div class="navbar-nav mr-auto mt-2 mt-md-0"></div>
-            <ul class="navbar-nav my-2 my-lg-0">
-              <li class="nav-item">
-                <a class="nav-link" href="/reviews">Reviews</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/faq">FAQ</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/share">Share</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/contact">Contact</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="https://play.google.com/store/apps/details?id=app.medicalid.free" title="Try Medical ID now!">
-                  <button type="button" class="btn btn-highlight">Try now</button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarToggler">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/reviews">Reviews</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/faq">FAQ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/share">Share</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/contact">Contact</a>
+                    </li>
+                </ul>
+                <a class="btn try-now"
+                   href="https://play.google.com/store/apps/details?id=app.medicalid.free"
+                   title="Try Medical ID now!">Try now
                 </a>
-              </li>
-            </ul>
-          </div>
-      </div>
+            </div>
+        </div>
     </nav>
+</header>
 
-    <div id="content" class="container">
-      {{ content }}
+<div id="content" class="container">
+    <div class="row justify-content-center text-left">
+        <div class="col-12">
+            {{ content }}
+        </div>
     </div>
+</div>
 
-    {% include footer.html %}
-    {% include scripts.html %}
-  </body>
-  </html>
+{% include footer.html %}
+{% include scripts.html %}
+</body>
+</html>

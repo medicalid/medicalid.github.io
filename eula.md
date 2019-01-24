@@ -3,7 +3,7 @@ layout: default
 ---
 # TERMS OF SERVICE AND END USER LICENSE AGREEMENT ("EULA")
 
-Last updated: _July 15, 2016_.
+Last updated: _January 24, 2019_.
 
 The following terms of service and end user license agreement ("EULA") constitute an agreement between you and Laurent Pellegrino. This EULA governs your use of Software and Services (as specified below). For purposes of this EULA "Software" means all software programs distributed, published or otherwise made available by Laurent Pellegrino or its affiliates including, but not limited to mobile apps, downloadable/installable apps for personal computer, and apps accessed by means of a browser or other online communication method. Software also includes updates and upgrades as well as accompanying manual(s), packaging and other written, files, electronic or on-line materials or documentation, and any and all copies of such software and its materials. "Services" means all services made available by Laurent Pellegrino, including but not limited to services accessed through mobile apps, by means of a browser or by other communication method. Software and Services are collectively referred to as "Laurent Pellegrino Services".
 
@@ -79,4 +79,4 @@ MISCELLANEOUS: This EULA represents the complete agreement concerning this licen
 
 GOVERNING LAW AND DISPUTE RESOLUTION. This EULA will be governed by the laws of France without reference to its choice of law rules. The United Nations Convention for the International Sale of Goods shall not apply. Any dispute, controversy or claim arising out of or relating to this EULA or the breach, termination or validity thereof shall be finally settled at Laurent Pellegrino's discretion (i) at your domicile's competent courts; or (ii) by arbitration in accordance with the Rules for Expedited Arbitration of the Arbitration Institute of the French Chamber of Commerce. The arbitration shall be conducted in France, in the French language. YOU AGREE THAT YOU MAY BRING CLAIMS AGAINST LAURENT PELLEGRINO ONLY IN YOUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
 
-IF YOU HAVE ANY QUESTIONS CONCERNING THIS AGREEMENT, YOU MAY CONTACT <a href="http://www.google.com/recaptcha/mailhide/d?k=01f0mKNqdOfUjYpjqXkwR1Tw==&amp;c=-MTky3_chhbKsPHCU6GWQxQNosSSPOvkvQSYfVlBTDoIh0e8Lt2Oz4kxYwK9ENni" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d01f0mKNqdOfUjYpjqXkwR1Tw\x3d\x3d\x26c\x3d-MTky3_chhbKsPHCU6GWQxQNosSSPOvkvQSYfVlBTDoIh0e8Lt2Oz4kxYwK9ENni', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">l...@medicalid.info</a>.
+IF YOU HAVE ANY QUESTIONS CONCERNING THIS AGREEMENT, YOU MAY CONTACT <a href="mailto:legal@medicalid.app">legal@medicalid.app</a>.

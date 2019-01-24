@@ -8,7 +8,7 @@ We’d love to hear your thoughts about Medical ID app!
 
 Fill out the form below or tweet us at [@medicalidapp](https://twitter.com/medicalidapp).
 
-<form class="form-horizontal" role="form" method="post" action="https://formspree.io/laurent.pellegrino@medicalid.info">
+<form class="form-horizontal" role="form" method="post" action="https://formspree.io/laurent.pellegrino@medicalid.app">
 	<div class="form-group">
 		<label for="name" class="col-sm-2 control-label">Name</label>
 		<div class="col-sm-10">
