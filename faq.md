@@ -75,7 +75,7 @@ layout: default
 
     <div class="faq-entry">
       <h4 id="preventing_lockscreen_widget_disappearing">Q3: The lock screen widget disappears after some time</h4>
-      <p>Medical ID unfortunately has no control over this - Android our services on some devices. Hopefully, on most devices, you can fix this issue by disabling app optimizations for Medical ID in your device Settings to stop Android from switching off the accessibility service that runs the lock screen widget. This is usually found in Settings > Battery.
+      <p>Medical ID unfortunately has no control over this - Android kill our services on some devices. Hopefully, on most devices, you can fix this issue by disabling app optimizations for Medical ID in your device Settings to stop Android from switching off the accessibility service that runs the lock screen widget. This is usually found in Settings > Battery.
 </p>
 
 <p>For example on the Samsung S8, go to Android Settings > General > Battery > look under App Optimization and select Details. Then find Medical ID and turn it off.</p>
