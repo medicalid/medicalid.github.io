@@ -29,7 +29,7 @@ layout: default
             <td><i class="fas fa-check green"></i></td>
           </tr>
           <tr>
-            <th scope="row">Neaby hospitals localisation</th>
+            <th scope="row">Nearby hospitals localisation</th>
             <td><i class="fas fa-check green"></i></td>
             <td><i class="fas fa-check green"></i></td>
           </tr>
