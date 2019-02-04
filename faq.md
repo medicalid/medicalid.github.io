@@ -75,16 +75,12 @@ layout: default
 
     <div class="faq-entry">
       <h4 id="preventing_lockscreen_widget_disappearing">Q3: The lock screen widget disappears after some time</h4>
-      <p>Medical ID unfortunately has no control over this - Android kill our services on some devices. Hopefully, on most devices, you can fix this issue by disabling app optimizations for Medical ID in your device Settings to stop Android from switching off the accessibility service that runs the lock screen widget. This is usually found in Settings > Battery.
+      <p>Medical ID unfortunately has no control over this - Android kill third-party services on some devices. Hopefully, you can fix this issue with editing a few options in your device settings. Most of the time it consists in disabling battery optimizations for Medical ID but some devices may require a few extra configurations. Here is a page that summarizes the procedure step-by-step based on your device manufacturer:  
 </p>
 
-<p>For example on the Samsung S8, go to Android Settings > General > Battery > look under App Optimization and select Details. Then find Medical ID and turn it off.</p>
+<p><a href="https://dontkillmyapp.com?app=Medical%20ID">https://dontkillmyapp.com</a></p>
 
-<p>On other devices, you may have to specify that Medical ID should be ignored in battery optimization. For example, on Huawei phones, go to Settings > Apps > Advanced Options > Ignore Optimations and toggle "allow" for Medical ID.</p>
-
-<p>If Medical ID is running on an SD card (external storage), that means it's "unavailable" when the system boots. This can turn off the accessibility service that is required to show the floating icon on your lock screen. Try moving it back to main storage.</p>
-
-<p>In all cases, we recommend checking that Medical ID Accessibility Service is on.</p>
+<p>In all cases, we recommend checking that Medical ID Accessibility Service is on from the app settings.</p>
 
     </div>
     <div class="faq-entry">
