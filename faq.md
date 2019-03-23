@@ -104,5 +104,11 @@ layout: default
     <p>Some tutorials are available on our <a href="https://www.youtube.com/channel/UCujXq86kWKvZzKKW7icJKIA/videos" title="Medical ID Youtube channel">Youtube channel</a>.</p>
     <p>Can't you find your question? <a href="/contact">Drop us an email</a> and we'd gladly help you further.</p>
   </div>
-
+  
+   <div class="faq-entry">
+      <h4 id="defining_ice_contacts">Q5: Where are backup stored?</h4>
+      <p class="faq-answer">
+        By default, backups are saved on your device. The location is your "Download" folder and then, subfolders "backup/medicalid". The full path depends on the storage that is mount on your device but here is an example with a standard device: <quote>/storage/emulated/0/Download/backups/medicalid/medicalid-X.backup</quote>.  
+      </p>
+    </div>
 </div>
