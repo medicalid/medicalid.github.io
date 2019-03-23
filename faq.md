@@ -102,9 +102,9 @@ layout: default
     </div>
     
     <div class="faq-entry">
-      <h4 id="backups_location">Q5: Where are backup stored?</h4>
+      <h4 id="backups_location">Q5: Where are backups stored?</h4>
       <p class="faq-answer">
-        By default, backups are saved on your device. The location is your "Download" folder and then, subfolders "backup/medicalid". The full path depends on the storage that is mount on your device but here is an example with a standard device: <quote>/storage/emulated/0/Download/backups/medicalid/medicalid-X.backup</quote>.  
+        By default, backups are saved on your device only. The location is your "Download" folder and then, subfolders "backup/medicalid". The full path depends on the storage that is mount on your device but here is an example with a standard device: <quote>/storage/emulated/0/Download/backups/medicalid/medicalid-X.backup</quote>.  
       </p>
     </div>
     
