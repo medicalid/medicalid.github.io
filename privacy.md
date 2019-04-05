@@ -37,7 +37,7 @@ To help us fix bugs and improve the app, we collect the following information on
 
 With the free version of the app only, the anonymous information above is shared with third parties for their business purposes, including the creation of reports, market research, and trend analysis. One of these third parties is Huq.io, data shared does not contain information from which users can be identified and we will not provide additional information to such third parties that enables such third parties to identify you. 
 
-You may opt-out from anonymous data collection and resource sharing with third-parties at any time by upgrading to the premium version of the app or uninstalling it.
+You may opt-out from anonymous data collection with third-parties at any time by upgrading to the premium version of the app or uninstalling it.
 
 ## Changes to this privacy
 
