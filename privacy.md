@@ -33,7 +33,7 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 ## Others
 
-To help us fix bugs and improve our the app, we collect the following information on an anonymous basis: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Internal MAC address (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale. 
+To help us fix bugs and improve the app, we collect the following information on an anonymous basis: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Internal MAC address (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale. 
 
 With the free version of the app only, the anonymous information above is shared with third parties for their business purposes, including the creation of reports, market research, and trend analysis. One of these third parties is Huq.io, data shared does not contain information from which users can be identified and we will not provide additional information to such third parties that enables such third parties to identify you. 
 
