@@ -7,7 +7,7 @@ Last updated: _April 6, 2019_.
 
 Medical data entered while creating profiles is only used on the device(s) where the app is installed and not shared to any third parties without your consent.
 
-Depending of the version you are using, the app may require some permissions to access your contacts but also to make phone calls and send SMS. All permissions these are requested are solely used to enable the app purposes:
+Depending of the version you are using, the app may require some permissions to access your contacts but also to make phone calls and send SMS. All permissions that are requested are solely used to enable the app purposes:
 
 - Accessing your contacts is needed to create contact links in the "Medical Notes" section.
 - The permission to make phone calls enables quick calls from the lock screen.
