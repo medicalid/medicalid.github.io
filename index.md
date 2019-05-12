@@ -9,13 +9,28 @@ layout: default
          <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="width: 100%;">
            <div class="carousel-inner" role="listbox">
              <div class="carousel-item active">
-               <img class="d-block img-fluid" src="/assets/images/example-profile.png" alt="Profile example">
+               <img class="d-block img-fluid" src="/assets/images/screen1.png" alt="Lock screen banner">
              </div>
              <div class="carousel-item">
-               <img class="d-block img-fluid" src="/assets/images/example-lockscreen-floating-icon.png" alt="Lock screen floating icon example">
+               <img class="d-block img-fluid" src="/assets/images/screen2.png" alt="Lock screen floating icon">
+             </div>
+	     <div class="carousel-item">
+               <img class="d-block img-fluid" src="/assets/images/screen3.png" alt="Lock screen overlay">
              </div>
              <div class="carousel-item">
-               <img class="d-block img-fluid" src="/assets/images/example-lockscreen-overlay.png" alt="Lock screen overlay example">
+               <img class="d-block img-fluid" src="/assets/images/screen4.png" alt="Profile">
+             </div>
+             <div class="carousel-item">
+               <img class="d-block img-fluid" src="/assets/images/screen5.png" alt="ICE contacts links">
+             </div>
+             <div class="carousel-item">
+               <img class="d-block img-fluid" src="/assets/images/screen6.png" alt="Profile edition">
+             </div>
+             <div class="carousel-item">
+               <img class="d-block img-fluid" src="/assets/images/screen7.png" alt="Settings">
+             </div>
+             <div class="carousel-item">
+               <img class="d-block img-fluid" src="/assets/images/screen8.png" alt="Alert feature">
              </div>
            </div>
            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
