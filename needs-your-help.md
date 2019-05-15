@@ -7,7 +7,7 @@ layout: default
   <div class="col-lg-9">
     <p>
         The free version of the app is made possible because people like you are supporting the development and the 
-        maintenance of the app. What do we mean by supporting? it ranges from kind words Laurent receives everydays (thanks people 💖), to <a href="https://www.transifex.com/medicalid/medicalid/">help with 
+        maintenance of the app. What do we mean by supporting? it ranges from kind words Laurent receives every day (thanks people 💖), great comments on Google Play, to <a href="https://www.transifex.com/medicalid/medicalid/">help with 
         translations</a>, people who upgrade to the <a href="https://play.google.com/store/apps/details?id=app.medicalid" title="Get Medical ID - Premium version">premium version of the app</a>, or some <a href="https://www.paypal.me/lpellegr" title="Make a donation to support Medical ID">rare donations</a>. 
     </p>
     
@@ -22,11 +22,12 @@ layout: default
     
     <p>
         What happens if you accept to occasionally share your anonymized location? 
-        Your device will from time to time send your anonymized position to our partner huq.io. 
-        The solution is 100% user-privacy compliant and has sub-1% battery consumption.
+        Your device will from time to time send your anonymized position to our partner huq.io.
+        Medical data or personally identifiable information is not shared and never will.
+        The solution is 100% user-privacy compliant and has very low battery consumption.
     </p>
     
-    <p>Are you still worried? you can opt-out at any time as shown in the next video:</p>
+    <p>Are you still worried? you can opt-out at any time as shown in the video below:</p>
     
     <p>TODO: add video</p>
     
