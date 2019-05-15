@@ -2,7 +2,6 @@
 layout: default
 ---
 <h1>Frequently Asked Questions</h1>
-<!--<h3 class="text-center">Simple answers to your most common questions</h3>-->
 
 <div class="row justify-content-center">
   <div class="col-lg-9">
@@ -34,7 +33,7 @@ layout: default
             <td><i class="fas fa-check green"></i></td>
           </tr>
           <tr>
-            <th scope="row">Customizable lock screen widget</th>
+            <th scope="row">Customizable lock screen widgets</th>
             <td><i class="fas fa-times red"></i></td>
             <td><i class="fas fa-check green"></i></td>
           </tr>
@@ -66,7 +65,7 @@ layout: default
     <div class="faq-entry">
       <h4 id="defining_ice_contacts">Q2: How to define ICE contacts?</h4>
       <p class="faq-answer">
-        The app allows creating profiles. Each profile contains a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such action is done, a pop-up appears to select the right contact. Upon selection, a link is automatically created. This way, when the profile is displayed on the lock screen, anybody can tap the link to open the profile associated with the contact you have defined and call him without unlocking your device.
+        The app allows creating profiles. Each profile includes a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such an action is performed, a pop-up appears to select the right contact. Upon selection, a link is automatically created. This way, when the profile is displayed on the lock screen, anybody can tap the link to open the profile associated with the contact you have defined and call him without unlocking your device.
       </p>
       <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="//www.youtube.com/embed/yz2F9qz7MLA?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
@@ -75,27 +74,27 @@ layout: default
 
     <div class="faq-entry">
       <h4 id="preventing_lockscreen_widget_disappearing">Q3: The lock screen widget disappears after some time</h4>
-      <p>Medical ID unfortunately has no control over this - Android kill third-party services on some devices. Hopefully, you can fix this issue by editing a few options in your device settings. Most of the time it consists in disabling battery optimizations for Medical ID but some devices may require a few extra configurations. Here is a page that summarizes the procedure step-by-step based on your device manufacturer:  
-</p>
-
-<p><a href="https://dontkillmyapp.com?app=Medical%20ID">https://dontkillmyapp.com</a></p>
-
-<p>In all cases, we recommend checking that Medical ID Accessibility Service is on from the app settings.</p>
-
+      <p>Medical ID unfortunately has no control over this: Android kill third-party services on some devices. Hopefully, you can fix this issue by editing a few options in your device settings. Most of the time it consists in disabling battery optimizations for Medical ID but some devices may require a few extra configurations.</p>
+      <p>Below is a link to a page that provides a step-by-step procedure based on your device:</p>
+      <p><a href="https://dontkillmyapp.com?app=Medical%20ID">https://dontkillmyapp.com</a></p>
+      <p>In all cases, we recommend checking that Medical ID Accessibility Service is enabled from the app settings.</p>
     </div>
+    
     <div class="faq-entry">
       <h4 id="editing_default_alert_message">Q4: How to edit the default SMS alert message?</h4>
       <p class="faq-answer">
-        Open the app, tap on the top right 3 dots button, select <strong>Settings</strong> then <strong>Alerts</strong>. At this stage, you should find a section called <strong>SMS alert message</strong>. Tap on it, set the message you want and confirm with <em>OK</em>.
+        Open the app, tap on the top right 3 dots button, select <em>Settings</em> then <em>Alerts</em>. At this stage, you should find a section called <em>SMS alert message</em>. Tap on it, set the message you want and confirm with <em>OK</em>.
 
-        Please note that your message may contain what we call <strong>placeholders</strong>. Placeholders are replaced automatically by their corresponding value just before the message is sent.
+        Please note that your message may contain what we call <em>placeholders</em>. Placeholders are replaced automatically by their corresponding value just before the message is sent.
 
-        There exist 4 placeholders:
+        <p>There exist 6 placeholders:</p>
 
         <ul>
           <li><strong>$firstname</strong> is replaced by the first name set on your top profile.</li>
           <li><strong>$lastname</strong> is replaced by the last name set on your top profile.</li>
           <li><strong>$address</strong> is replaced by the best-estimated address it was possible to find.</li>
+          <li><strong>$altitude</strong> is replaced by the estimated altitude (in meters).</li>
+          <li><strong>$coordinates</strong> is replaced by the estimated GPS location, if available.</li>
           <li><strong>$coordinates_link</strong> is replaced by the estimated GPS location along with a link to display your location on Google map. Obviously, if location acquisition was possible.</li>
         </ul>
       </p>
@@ -104,7 +103,7 @@ layout: default
     <div class="faq-entry">
       <h4 id="backups_location">Q5: Where are backups stored?</h4>
       <p class="faq-answer">
-        By default, backups are saved on your device only. The location is your "Download" folder and then, subfolders "backup/medicalid". The full path depends on the storage that is mount on your device but here is an example with a standard device: <quote>/storage/emulated/0/Download/backups/medicalid/medicalid-X.backup</quote>.  
+        By default, backups are saved on your device only. In your <em>Download</em> folder, look for subfolders <em>backups</em>, then <em>medicalid</em>. The full path depends on the storage that is mount on your device but here is an example with a standard device: <quote>/storage/emulated/0/Download/backups/medicalid/medicalid-X.backup</quote>, where <em>X</em> depicts the creation time of the backup file.  
       </p>
     </div>
     

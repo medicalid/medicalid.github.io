@@ -12,6 +12,10 @@ body {
     font-size: 1.1em;
 }
 
+quote {
+    color: #777;
+}
+
 .carousel-inner img {
     margin: auto;
 }

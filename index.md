@@ -60,7 +60,7 @@ layout: default
         <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Alert feature to send an SMS in one tap (including your estimated location).</li>
         <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Body Mass Index (BMI) calculation.</li>
         <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Current location information (address, GPS coordinates).</li>
-        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Nearby hospitals localization.</li>
+        <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Nearby hospitals localisation.</li>
         <li class="list-group-item list-group-item-action"><i class="fas fa-check"></i> Compass.</li>
       </ul>
     </div>
