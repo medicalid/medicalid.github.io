@@ -3,15 +3,20 @@ layout: default
 ---
 # Privacy policy
 
-Last updated: _April 6, 2019_.
+Last updated: _May 16, 2019_.
 
-Medical data entered while creating profiles is only used on the device(s) where the app is installed and not shared to any third parties without your consent.
+**Medical data you save with the app is not shared with third parties and never will.**
 
-Depending of the version you are using, the app may require some permissions to access your contacts but also to make phone calls and send SMS. All permissions that are requested are solely used to enable the app purposes:
+Depending of the version you are using, the app may require permissions to access your contacts, get your location, make phone calls and send SMS. Permissions are requested to enable app features:
 
-- Accessing your contacts is needed to create contact links in the "Medical Notes" section.
-- The permission to make phone calls enables quick calls from the lock screen.
-- Using the premium version of the app, the send SMS permission allows sending SMS alerts in case of emergencies.
+- Accessing your contacts is required to <a href="https://youtu.be/yz2F9qz7MLA">create contact links</a> in the "Medical Notes" section.
+- The permission to make phone calls enables quick calls from your lock screen.
+- The send SMS permission allows sending automated SMS alerts in case of emergencies (available with the premium version only).
+- The request to get your location is required to:
+  - use the activity that shows your current location estimation from your lock screen.
+  - show nearby hospitals with Google Maps.
+  - include your GPS location and address estimation with SMS alerts.
+  - occasionally share your anonymized location with third-parties _when you use the free version of the app only_ (<a href="https://medicalid.app/needs-your-help">you can opt-out at anytime</a>).
 
 ## Geolocation
 
@@ -33,14 +38,16 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 ## Others
 
-To help us fix bugs and improve the app, we collect the following information on an anonymous basis: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Internal MAC address (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale. 
+To help us fix bugs and improve the app, we may collect the following information on an anonymous basis: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Internal MAC address (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale. 
 
-With the free version of the app only, the anonymous information above is shared with third parties for their business purposes, including the creation of reports, market research, and trend analysis. One of these third parties is Huq.io, data shared does not contain information from which users can be identified and we will not provide additional information to such third parties that enables such third parties to identify you. 
+With the _free version of the app only_, the anonymous information above is shared with third parties for their business purposes, including the creation of reports, market research, and trend analysis. One of these third parties is huq.io. Data shared does not contain information from which users can be identified and we will not provide additional information to such third parties that enables such third parties to identify you. 
 
-You may opt-out from anonymous data collection with third-parties at any time by upgrading to the premium version of the app or uninstalling it.
+Furthermore, your medical data is not shared with third-parties and never will.
+
+You may opt-out from anonymous location sharing with third-parties at any time by following what is explained [on this page](https://medicalid.app/needs-your-help) or by upgrading to the [premium version](https://play.google.com/store/apps/details?id=app.medicalid) of the app.
 
 ## Changes to this privacy
 
-We reserve the right to make changes to this privacy policy at any time by giving notice on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the top. If you object to any of the changes to the Policy, you must cease using Laurent Pellegrino Services.
+We reserve the right to make changes to this privacy policy at any time by giving notice on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the top. If you object to any of the changes to the Policy, you must cease using Laurent Pellegrino Services: this includes the Medical ID app.
 
 If you have any question, you may contact <a href="legal@medicalid.app">legal@medicalid.app</a>.
