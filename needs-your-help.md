@@ -10,7 +10,7 @@ layout: default
         maintenance of the app. What do we mean by <em>supporting</em>? it ranges from kind words Laurent receives 
         every day (thanks people 💖), great comments on Google Play,
          <a href="https://www.transifex.com/medicalid/medicalid/" title="Help translating Medical ID" alt="Help translating Medical ID">help with translations</a>, people who upgrade to 
-         the <a href="https://play.google.com/store/apps/details?id=app.medicalid" title="Get Medical ID - Premium version">premium version of the app</a>, to some <a href="https://www.paypal.me/lpellegr" title="Make a donation to support Medical ID" alt="Make a donation to support Medical ID">rare donations</a>. 
+         the <a href="https://play.google.com/store/apps/details?id=app.medicalid" title="Get Medical ID - Premium version">premium version of the app</a>, to some <a href="https://www.paypal.me/lpellegr" title="Make a donation to support Medical ID" alt="Make a donation to support Medical ID">donations</a>. 
     </p>
     
     <p>
