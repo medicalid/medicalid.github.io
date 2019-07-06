@@ -23,7 +23,7 @@ github_username:  medicalid
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
 exclude:
