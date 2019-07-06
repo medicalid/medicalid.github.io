@@ -49,10 +49,7 @@ Here is the list of third-parties that may receive anonymous, non-medical data (
 - Huq.io. They retain collected data for as long as reasonably necessary to fulfil the purposes they collected data for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. For more information, read their <a href="https://huq.io/terms/privacy/">privacy policy</a> or contact their Data Protection Officer at hello@huq.io. 
 - Teemo SA. Data collected are retained for a maximum of 30 days and then aggregates and stores it up to 12 months. For more information, on the processing activity, read their <a href="https://teemo.co/privacy-policy/">privacy policy</a> or contact their Data Protection Officer at dpo@teemo.co.
 
-
-### Your legal rights
-
-You have rights under data protection laws in relation to your personal data:
+Please note you have rights under data protection laws in relation to your personal data:
 
 - Request access to your personal data.
 - Request correction of your personal data.
