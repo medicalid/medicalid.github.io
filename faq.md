@@ -74,7 +74,7 @@ layout: default
 
     <div class="faq-entry">
       <h4 id="preventing_lockscreen_widget_disappearing">Q3: The lock screen widget disappears after some time</h4>
-      <p>Medical ID unfortunately has no control over this: Android kill third-party services on some devices. Hopefully, you can fix this issue by editing a few options in your device settings. Most of the time it consists in disabling battery optimizations for Medical ID but some devices may require a few extra configurations.</p>
+      <p>Medical ID unfortunately has no control over this: Some Android versions modified by manufacturers kill third-party services. Hopefully, you can fix this issue by editing a few options in your device settings. Most of the time it consists in disabling battery optimizations for Medical ID but some devices may require a few extra configurations.</p>
       <p>Below is a link to a page that provides a step-by-step procedure based on your device:</p>
       <p><a href="https://dontkillmyapp.com?app=Medical%20ID">https://dontkillmyapp.com</a></p>
       <p>In all cases, we recommend checking that Medical ID Accessibility Service is enabled from the app settings.</p>

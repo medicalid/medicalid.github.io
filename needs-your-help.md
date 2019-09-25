@@ -7,16 +7,16 @@ layout: default
   <div class="col-lg-9">
     <p>
         The free version of the app is made possible because people like you are supporting the development and the 
-        maintenance of the app. What do we mean by <em>supporting</em>? it ranges from kind words Laurent receives 
+        maintenance of the app. What do I mean by <em>supporting</em>? it ranges from kind words I receive 
         every day (thanks people 💖), great comments on Google Play,
          <a href="https://www.transifex.com/medicalid/medicalid/" title="Help translating Medical ID" alt="Help translating Medical ID">help with translations</a>, people who upgrade to 
          the <a href="https://play.google.com/store/apps/details?id=app.medicalid" title="Get Medical ID - Premium version">premium version of the app</a>, to some <a href="https://www.paypal.me/lpellegr" title="Make a donation to support Medical ID" alt="Make a donation to support Medical ID">donations</a>. 
     </p>
     
     <p>
-        Unfortunately, that is not enough to keep the app alive. For the benefit of all, we want to keep a free version 
-        of the application, so we investigated solutions. In contrary to advertisements, which we think are too 
-        intrusive and do not make sense for Medical ID, we start asking users of the free version only if they would mind 
+        Unfortunately, that is not enough to keep the app alive. For the benefit of all, I want to keep a free version 
+        of the application, so I investigated solutions. In contrary to advertisements, which I think are too 
+        intrusive and do not make sense for Medical ID, I started asking users of the free version only if they would mind 
         sharing occasionally their anonymized location position for research and marketing purposes. 
     </p>
     
@@ -24,7 +24,7 @@ layout: default
     
     <p>
         What happens if you accept to occasionally share your anonymized location? 
-        Your device will from time to time send your anonymized position to our partner huq.io.
+        Your device will from time to time send your anonymized position to our partners huq.io or teemo.
         Medical data or personally identifiable information is not shared and never will.
         The solution is 100% user-privacy compliant and has very low battery consumption.
     </p>
