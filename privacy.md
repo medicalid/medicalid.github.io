@@ -44,10 +44,9 @@ With the _free version of the app only_, and upon your consent, the anonymous in
 
 You may opt-out from anonymous location sharing with third-parties at any time by following what is explained [on this page](https://medicalid.app/needs-your-help) or by upgrading to the [premium version](https://play.google.com/store/apps/details?id=app.medicalid) of the app.
 
-Here is the list of third-parties that may receive anonymous, non-medical data (as described above), when you give your consent with the free version of the app:
+Here is the list of third-parties that may receive anonymous, non-medical data (as described above), when you give your consent and with the free version of the app only:
 
-- Huq.io. They retain collected data for as long as reasonably necessary to fulfil the purposes they collected data for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. For more information, read their <a href="https://huq.io/terms/privacy/">privacy policy</a> or contact their Data Protection Officer at hello@huq.io. 
-- Teemo SA. Data collected are retained for a maximum of 30 days and then aggregates and stores it up to 12 months. For more information, on the processing activity, read their <a href="https://teemo.co/privacy-policy/">privacy policy</a> or contact their Data Protection Officer at dpo@teemo.co.
+- Huq.io. They retain collected data for as long as reasonably necessary to fulfil the purposes they collected data for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. For more information, read their <a href="https://huq.io/terms/privacy/">privacy policy</a> or contact their Data Protection Officer at hello@huq.io.
 
 Please note you have rights under data protection laws in relation to your personal data:
 
