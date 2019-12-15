@@ -3,7 +3,7 @@ layout: default
 ---
 # Privacy policy
 
-Last updated: _July 6, 2019_.
+Last updated: _December 15, 2019_.
 
 **Medical data you save with the app is not shared with third parties and never will.**
 
