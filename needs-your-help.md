@@ -24,7 +24,7 @@ layout: default
     
     <p>
         What happens if you accept to occasionally share your anonymized location? 
-        Your device will from time to time send your anonymized position to our partners huq.io or teemo.
+        Your device will from time to time send your anonymized position to our partner huq.io.
         Medical data or personally identifiable information is not shared and never will.
         The solution is 100% user-privacy compliant and has very low battery consumption.
     </p>
