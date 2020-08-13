@@ -3,7 +3,7 @@ layout: default
 ---
 # Privacy policy
 
-Last updated: _December 15, 2019_.
+Last updated: _August 13, 2020_.
 
 **Medical data you save with the app is not shared with third parties and never will.**
 
@@ -13,10 +13,10 @@ Depending of the version you are using, the app may require permissions to acces
 - The permission to make phone calls enables quick calls from your lock screen.
 - The send SMS permission allows sending automated SMS alerts in case of emergencies (available with the premium version only).
 - The request to get your location is required to:
-  - use the activity that shows your current location estimation from your lock screen.
+  - display your current location in the helper view from your lock screen.
   - show nearby hospitals with Google Maps.
   - include your GPS location and address estimation with SMS alerts.
-  - occasionally share your anonymized location with third-parties _when you use the free version of the app only_ (<a href="https://medicalid.app/needs-your-help">you can opt-out at anytime</a>).
+  - occasionally share your anonymized location with third-parties _when you use the free version of the app only_ (<a href="https://medicalid.app/needs-your-help">you can opt-out at any time</a>).
 
 ## Geolocation
 
@@ -38,15 +38,15 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 ## Others
 
-To help us fix bugs and improve the app, we may collect the following information on an anonymous basis: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Internal MAC address (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale. 
+To help us fix bugs and improve the app, we may collect the following information on an anonymous basis: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale. 
 
-With the _free version of the app only_, and upon your consent, the anonymous information above is shared with third parties for their business purposes, including the creation of reports, market research, trend analysis, personalized advertising and business analytics. Data shared does not contain information from which users can be identified and we will not provide additional information to such third parties that enables such third parties to identify you. Furthermore, your medical data is not shared with third-parties and never will.
+With the _free version of the app only_, and upon your consent, the anonymous information above is shared with third parties for their business purposes, including the creation of reports, market research, and trend analysis. Data shared does not contain information from which users can be identified by name and we will not provide additional information to such third parties that enables such third parties to identify you. Furthermore, your medical data is not shared with third-parties and never will.
 
 You may opt-out from anonymous location sharing with third-parties at any time by following what is explained [on this page](https://medicalid.app/needs-your-help) or by upgrading to the [premium version](https://play.google.com/store/apps/details?id=app.medicalid) of the app.
 
 Here is the list of third-parties that may receive anonymous, non-medical data (as described above), when you give your consent and with the free version of the app only:
 
-- Huq.io. They retain collected data for as long as reasonably necessary to fulfil the purposes they collected data for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. For more information, read their <a href="https://huq.io/terms/privacy/">privacy policy</a> or contact their Data Protection Officer at hello@huq.io.
+- Huq.io. They retain collected data for as long as reasonably necessary to fulfil the purposes they collected data for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. You can find a full description of Huq and what it and its [partners](https://huq.io/data-partners) do with the information collected via our app [here](https://huq.io/privacy-policy) as well as details on how to request more information on the use of your data and your rights for editing or removing your data.
 
 Please note you have rights under data protection laws in relation to your personal data:
 
@@ -59,7 +59,6 @@ Please note you have rights under data protection laws in relation to your perso
 - Right to withdraw consent.
 
 If you wish to exercise any of the rights set out above, please contact us.
-
 
 ## Data Protection Officer
 
