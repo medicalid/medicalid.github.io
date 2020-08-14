@@ -32,7 +32,7 @@ layout: default
     <p>Are you still worried? you can opt-out at any time as shown in the video below:</p>
     
     <p class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ZftSKZSuuiY?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>    
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/pNYcC8VHOL0" allowfullscreen></iframe>    
     </p>
     
     <p>Thanks for your help!</p>
