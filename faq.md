@@ -68,7 +68,7 @@ layout: default
         The app allows creating profiles. Each profile includes a <em>Medical Notes</em> section. In this section, you can write the first letters of one of your device contacts. When such an action is performed, a pop-up appears to select the right contact. Upon selection, a link is automatically created. This way, when the profile is displayed on the lock screen, anybody can tap the link to open the profile associated with the contact you have defined and call him without unlocking your device.
       </p>
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/yz2F9qz7MLA?list=PLxIuIEioAyAA2GNtp8ymcFf9zqHiqo0zt" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="//www.youtube.com/embed/dlLtXE_qRuU" allowfullscreen></iframe>
       </div>
     </div>
 
