@@ -107,7 +107,7 @@ layout: default
       </p>
     </div>
     
-    <p>Some tutorials are available on our <a href="https://www.youtube.com/channel/UCujXq86kWKvZzKKW7icJKIA/videos" title="Medical ID Youtube channel">Youtube channel</a>.</p>
+    <p>Some videos to help you with usage and configuration are available on our <a href="https://www.youtube.com/channel/UCtXz7tuem2JdIQ6fvufC5pQ/videos" title="Medical ID Youtube Channel">Youtube channel</a>.</p>
     <p>Can't you find your question? <a href="/contact">Drop us an email</a> and we'd gladly help you further.</p>
   </div>
  
