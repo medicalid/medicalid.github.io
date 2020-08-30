@@ -6,7 +6,8 @@ layout: default
      <div class="row justify-content-center">
        <div class="col-lg-10">
          <h1 style="margin-top: 0;">The Android app that could <br>save your life!</h1>
-         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="width: 100%;">
+         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="width: 100%; position: relative">
+           <a href="https://www.healthline.com/health/allergies/top-iphone-android-apps" title="Medical - Best App by Healthline " target="_blank" style="position: absolute; bottom: -32px; right: 0; z-index: 99"><img class="d-block img-fluid" src="https://www.healthline.com/hlcmsresource/images/topic_centers/badges-2020/Allergies_-best-video-2020-badge-gold.png" width="192" ></a>
            <div class="carousel-inner" role="listbox">
              <div class="carousel-item active">
                <img class="d-block img-fluid" src="/assets/images/screen1.png" alt="Lock screen banner">
