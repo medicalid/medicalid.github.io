@@ -102,7 +102,7 @@ layout: default
         <p>Here are links to videos showing different actions:</p>  
         
         <ul>
-          <li><a href="https://youtu.be/-lBMoXDR6MQ" title="Creating a backup file" target="_blank">Creating a backup file</a></li>
+          <li><a href="https://youtu.be/taH9QbVc_Ik" title="Creating a backup file" target="_blank">Creating a backup file</a></li>
           <li><a href="https://youtu.be/AVcWO72snDA" title="Moving a backup file in the Cloud (e.g. Google Drive)" target="_blank">Moving a backup file in the Cloud (e.g. Google Drive):</a></li>
           <li><a href="https://youtu.be/tlUWjgOu78U" title="Retrieving a backup from the Cloud" target="_blank">Retrieving a backup from the Cloud</a></li>
           <li><a href="https://youtu.be/DUoMm51LHNo" title="Restore the data" target="_blank">Restoring the data</a></li>
