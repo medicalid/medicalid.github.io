@@ -9,14 +9,14 @@ Last updated: _August 13, 2020_.
 
 Depending of the version you are using, the app may require permissions to access your contacts, get your location, make phone calls and send SMS. Permissions are requested to enable app features:
 
-- Accessing your contacts is required to <a href="https://youtu.be/yz2F9qz7MLA">create contact links</a> in the "Medical Notes" section.
+- Accessing your contacts is required to <a href="https://www.youtube.com/watch?v=dlLtXE_qRuU">create contact links</a> in the "Medical Notes" section.
 - The permission to make phone calls enables quick calls from your lock screen.
-- The send SMS permission allows sending automated SMS alerts in case of emergencies (available with the premium version only).
+- The SMS permission allows sending automated SMS alerts in case of emergencies (available with the premium version only).
 - The request to get your location is required to:
   - display your current location in the helper view from your lock screen.
   - show nearby hospitals with Google Maps.
   - include your GPS location and address estimation with SMS alerts.
-  - occasionally share your anonymized location with third-parties _when you use the free version of the app only_ (<a href="https://medicalid.app/needs-your-help">you can opt-out at any time</a>).
+  - occasionally share your anonymized location with third-parties _when you use the free version of the app and give your consent_ (<a href="https://medicalid.app/needs-your-help">you can opt-out at any time</a>).
 
 ## Geolocation
 
