@@ -257,6 +257,13 @@ li i {
     z-index: 9999;
 }
 
+@media only screen and (max-device-width : 640px) {
+    #arc-widget-container iframe {
+        display: none !important;
+        height: 0 !important;
+    }
+}
+
 @media only screen and (min-width: 1200px) {
     #google-translate-element {
         background-color: transparent;
