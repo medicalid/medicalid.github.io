@@ -3,13 +3,14 @@ layout: default
 ---
 # Privacy policy
 
-Last updated: _August 13, 2020_.
+Last updated: _November 9, 2021_.
 
 **Medical data you save with the app is not shared with third parties and never will.**
 
 Depending of the version you are using, the app may require permissions to access your contacts, get your location, make phone calls and send SMS. Permissions are requested to enable app features:
 
 - Accessing your contacts is required to <a href="https://www.youtube.com/watch?v=dlLtXE_qRuU">create contact links</a> in the "Medical Notes" section.
+- Enabling the Medical ID accessibility service is needed to draw widgets over your lock screen.
 - The permission to make phone calls enables quick calls from your lock screen.
 - The SMS permission allows sending automated SMS alerts in case of emergencies (available with the premium version only).
 - The request to get your location is required to:
@@ -20,9 +21,9 @@ Depending of the version you are using, the app may require permissions to acces
 
 ## Geolocation
 
-Medical ID may collect, use, and share User location Data in order to provide location-based services. Most browsers and devices provide tools to opt out from this feature by default.
+Medical ID may collect, use, and share User location Data in order to provide location-based services. Most browsers and devices provide tools to opt out from this feature by default. The app also includes a feature to share your device location with selected contacts for up to 24 hours or until to stop the sharing. Enabling this feature requires explicit actions from you.
 
-Personal Data collected: anonymous geographic position.
+Personal Data collected: geographic position.
 
 ## Displaying content from external platforms
 
@@ -38,15 +39,15 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 ## Others
 
-To help us fix bugs and improve the app, we may collect the following information on an anonymous basis: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale. 
+We may collect the following information: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale together with a resettable generated ID. 
 
-With the _free version of the app only_, and upon your consent, the anonymous information above is shared with third parties for their business purposes, including the creation of reports, market research, and trend analysis. Data shared does not contain information from which users can be identified by name and we will not provide additional information to such third parties that enables such third parties to identify you. Furthermore, your medical data is not shared with third-parties and never will.
+In addition to helping the functionality and debugging of our app, with the _free version of the app only_, and upon your consent, the anonymous information above is shared with third parties for their business purposes, which consist of the creation of anonymised reports, market research and trend analyses. Data shared does not contain information from which users can be identified by name and we will not provide additional information to such third parties that enables such third parties to identify you. Furthermore, your medical data is NOT shared with third-parties and never will.
 
 You may opt-out from anonymous location sharing with third-parties at any time by following what is explained [on this page](https://medicalid.app/needs-your-help) or by upgrading to the [premium version](https://play.google.com/store/apps/details?id=app.medicalid) of the app.
 
 Here is the list of third-parties that may receive anonymous, non-medical data (as described above), when you give your consent and with the free version of the app only:
 
-- Huq.io. They retain collected data for as long as reasonably necessary to fulfil the purposes they collected data for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. You can find a full description of Huq and what it and its [partners](https://huq.io/data-partners) do with the information collected via our app [here](https://huq.io/privacy-policy) as well as details on how to request more information on the use of your data and your rights for editing or removing your data.
+- Huq.io: they retain collected data for as long as reasonably necessary to fulfil the purposes they collected data for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. You can find a full description of Huq and what it and its [partners](https://huq.io/data-partners) do with the information collected via our app [here](https://huq.io/privacy-policy) as well as details on how to request more information on the use of your data and your rights for editing or removing your data.
 
 Please note you have rights under data protection laws in relation to your personal data:
 
