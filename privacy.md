@@ -21,7 +21,7 @@ Depending of the version you are using, the app may require permissions to acces
 
 ## Geolocation
 
-Medical ID may collect, use, and share User location Data in order to provide location-based services. Most browsers and devices provide tools to opt out from this feature by default. The app also includes a feature to share your device location with selected contacts for up to 24 hours or until to stop the sharing. Enabling this feature requires explicit actions from you.
+Medical ID may collect, use, and share User location Data in order to provide location-based services. Most browsers and devices provide tools to opt out from this feature by default. The app also includes a feature to share your device location with selected contacts for up to 24 hours or until you stop the sharing. Enabling this feature requires explicit actions from you.
 
 Personal Data collected: geographic position.
 
