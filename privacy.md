@@ -39,9 +39,9 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 ## Others
 
-We may collect the following information: Operating System, Date & time, Latitude, Longitude, Accuracy (GPS), SSID (network), BSSID (network), Bundle ID, Device Model, Device Manufacturer, Carrier Code (Android only), Carrier Name, Sim Code, Country, and Locale together with a resettable generated ID. 
+We may collect the following information: Operating System, BluetoothName, Carrier Code (Android only), Carrier Name, Sim Code, Charging Status, Device Model, Device Manufacturer, Country, Locale, Bundle ID, Date & time, SSID (network), BSSID (network), Latitude, Longitude, Accuracy (GPS), Scanned networks.
 
-In addition to helping the functionality and debugging of our app, with the _free version of the app only_, and upon your consent, the anonymous information above is shared with third parties for their business purposes, which consist of the creation of anonymised reports, market research and trend analyses. Data shared does not contain information from which users can be identified by name and we will not provide additional information to such third parties that enables such third parties to identify you. Furthermore, your medical data is NOT shared with third-parties and never will.
+In addition to helping the functionality and debugging of our app, with the _free version of the app only_, and upon your consent, the anonymous information above is shared with third parties for their business purposes, including the creation of reports, market, scientific and statistical research and trend analysis. Data shared does not contain information from which users can be identified by name and we will not provide additional information to such third parties that enables such third parties to identify you. Furthermore, your medical data is NOT shared with third-parties and never will.
 
 You may opt-out from anonymous location sharing with third-parties at any time by following what is explained [on this page](https://medicalid.app/needs-your-help) or by upgrading to the [premium version](https://play.google.com/store/apps/details?id=app.medicalid) of the app.
 
