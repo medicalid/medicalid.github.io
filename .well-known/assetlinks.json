@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.medicalid",
+      "sha256_cert_fingerprints": [
+        "A8:14:D2:25:96:5C:2C:5D:73:ED:C7:59:46:B8:F7:78:89:CD:7D:22:3C:95:3E:8A:7F:00:A1:70:AE:77:A8:70"
+      ]
+    }
+  }
+]
