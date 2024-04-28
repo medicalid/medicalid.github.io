@@ -3,7 +3,7 @@ layout: default
 ---
 # Privacy policy
 
-Last updated: _January 3, 2024_.
+Last updated: _April 8, 2024_.
 
 **Medical data you save with the app is not shared with third parties and never will.**
 
@@ -66,14 +66,14 @@ If you wish to exercise any of the rights set out above, please contact us.
 Medical ID designated a Data Protection Officer (DPO), as required by GDPR:
 
 ```
-Laurent Pellegrino
+Elaunira SARL
 Email: laurent.pellegrino@medicalid.app
 Phone: +33665262907
-Address: 1 Chemin des rosiers, 06800 Cagnes-sur-mer, France
+Address: 1 Chemin des Rosiers, 06800 Cagnes-sur-Mer, France
 ```
 
 ## Changes to this privacy
 
-We reserve the right to make changes to this privacy policy at any time by giving notice on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the top. If you object to any of the changes to the Policy, you must cease using Laurent Pellegrino Services: this includes the Medical ID app.
+We reserve the right to make changes to this privacy policy at any time by giving notice on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the top. If you object to any of the changes to the Policy, you must cease using Elaunira SARL Services: this includes the Medical ID app.
 
 If you have any question, you may contact <a href="mailto:legal@medicalid.app">legal@medicalid.app</a>.

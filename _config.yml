@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Medical ID - The Android app that could save your life
 description: The Android app that could save your life.
-author: Laurent Pellegrino
+author: Elaunira SARL
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: medicalidapp
